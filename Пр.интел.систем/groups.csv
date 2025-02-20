@@ -1,0 +1,5771 @@
+Transaction,Item
+1,Bjork
+1,Black Sabbath
+1,My Bloody Valentine
+2,Michael Jackson
+2,Queen
+2,Black Sabbath
+2,Janet Jackson
+3,Black Sabbath
+3,"Tyler, the Creator"
+3,Queen
+4,Led Zeppelin
+4,Metallica
+4,Queen
+4,Queen
+4,Queen
+4,Deep Purple
+5,"Tyler, the Creator"
+5,Queen
+5,Kendrick Lamar
+6,Kendrick Lamar
+6,Madonna
+6,Iron Maiden
+6,Scorpions
+7,Bjork
+7,Michael Jackson
+8,Scorpions
+8,Deep Purple
+9,Megadeth
+9,Jay-Z
+10,"Tyler, the Creator"
+10,2pac
+10,Kendrick Lamar
+11,Metallica
+12,Megadeth
+13,"Tyler, the Creator"
+13,Led Zeppelin
+14,Queen
+14,George Michael
+14,Janet Jackson
+14,Black Sabbath
+14,Kanye West
+15,Queen
+15,George Michael
+15,My Bloody Valentine
+15,2pac
+15,Madonna
+16,Radiohead
+16,My Bloody Valentine
+16,Prince
+16,Metallica
+16,Bjork
+17,Judas Priest
+17,Black Sabbath
+18,Deep Purple
+18,Black Sabbath
+18,Prince
+18,Queen
+18,My Bloody Valentine
+18,Judas Priest
+19,Bjork
+19,Radiohead
+20,Michael Jackson
+21,Metallica
+21,"Tyler, the Creator"
+21,Megadeth
+21,Queen
+21,Iron Maiden
+21,Motorhead
+22,Queen
+23,Deep Purple
+24,Michael Jackson
+24,2pac
+25,Queen
+25,Kendrick Lamar
+25,Kanye West
+26,Led Zeppelin
+26,Queen
+27,George Michael
+27,Madonna
+28,Black Sabbath
+28,Queen
+28,Iron Maiden
+29,Kanye West
+29,Queen
+29,Metallica
+29,Bjork
+29,Kendrick Lamar
+29,Kendrick Lamar
+30,Madonna
+31,Black Sabbath
+31,Judas Priest
+32,Queen
+33,Madvillain
+33,My Bloody Valentine
+33,"Tyler, the Creator"
+33,Iron Maiden
+34,George Michael
+34,Michael Jackson
+35,Led Zeppelin
+36,2pac
+36,Kanye West
+37,Iron Maiden
+37,Judas Priest
+38,Led Zeppelin
+38,Black Sabbath
+39,Scorpions
+39,Queen
+39,Led Zeppelin
+39,Kendrick Lamar
+39,Led Zeppelin
+39,Queen
+40,Iron Maiden
+40,Bjork
+41,Janet Jackson
+41,Michael Jackson
+41,Iron Maiden
+41,Megadeth
+41,Deep Purple
+41,"Tyler, the Creator"
+42,Metallica
+42,Queen
+42,Judas Priest
+42,Black Sabbath
+43,George Michael
+44,George Michael
+44,"Tyler, the Creator"
+45,Madonna
+46,Madvillain
+46,Bjork
+46,Godspeed You Black Emperor!
+46,Deep Purple
+46,George Michael
+46,Judas Priest
+47,Queen
+48,Iron Maiden
+48,Black Sabbath
+48,Queen
+49,2pac
+49,Metallica
+49,Michael Jackson
+49,Kendrick Lamar
+49,Kendrick Lamar
+50,Michael Jackson
+50,Queen
+51,Kendrick Lamar
+51,Michael Jackson
+51,Queen
+52,Metallica
+52,Kanye West
+52,Janet Jackson
+52,Black Sabbath
+53,Radiohead
+53,Bjork
+54,Prince
+54,Michael Jackson
+54,Michael Jackson
+54,Jay-Z
+55,Janet Jackson
+55,Judas Priest
+55,My Bloody Valentine
+56,Bjork
+56,Metallica
+57,George Michael
+57,Led Zeppelin
+57,Kendrick Lamar
+58,2pac
+58,Kendrick Lamar
+59,Queen
+59,Bjork
+60,Kendrick Lamar
+60,Deep Purple
+60,Michael Jackson
+60,Deep Purple
+61,Led Zeppelin
+61,My Bloody Valentine
+61,Queen
+62,Iron Maiden
+62,Motorhead
+63,Judas Priest
+63,Iron Maiden
+63,Kanye West
+63,"Tyler, the Creator"
+63,George Michael
+64,Metallica
+64,Black Sabbath
+65,Kendrick Lamar
+65,Black Sabbath
+65,Queen
+66,George Michael
+66,Deep Purple
+66,Radiohead
+66,Michael Jackson
+67,Metallica
+67,Iron Maiden
+68,Radiohead
+68,Kanye West
+68,Metallica
+68,Iron Maiden
+68,Black Sabbath
+68,Kendrick Lamar
+68,Black Sabbath
+69,Madonna
+69,Radiohead
+69,Madvillain
+69,Queen
+69,Kendrick Lamar
+70,2pac
+70,Kendrick Lamar
+71,Black Sabbath
+71,Queen
+71,Judas Priest
+71,Queen
+71,Madonna
+71,2pac
+71,Michael Jackson
+72,Iron Maiden
+73,Kendrick Lamar
+74,Megadeth
+74,Motorhead
+75,"Tyler, the Creator"
+76,Metallica
+76,Iron Maiden
+77,Kendrick Lamar
+77,Led Zeppelin
+77,Madonna
+77,Michael Jackson
+77,Jay-Z
+78,Michael Jackson
+78,2pac
+78,Black Sabbath
+79,Madonna
+79,Jay-Z
+79,Bjork
+79,Michael Jackson
+79,"Tyler, the Creator"
+79,Metallica
+80,Kendrick Lamar
+80,Madvillain
+80,Bjork
+80,Bjork
+80,Radiohead
+81,My Bloody Valentine
+81,Black Sabbath
+82,Radiohead
+82,Queen
+83,Kanye West
+84,2pac
+84,Kendrick Lamar
+84,Madvillain
+84,Godspeed You Black Emperor!
+84,George Michael
+84,Michael Jackson
+85,Scorpions
+85,Queen
+85,Queen
+85,Queen
+86,Metallica
+86,"Tyler, the Creator"
+86,Deep Purple
+86,Radiohead
+86,Bjork
+87,Black Sabbath
+88,Kanye West
+88,Bjork
+88,Queen
+88,Queen
+88,"Tyler, the Creator"
+88,"Tyler, the Creator"
+88,"Tyler, the Creator"
+89,Madonna
+89,Jay-Z
+89,Iron Maiden
+90,Godspeed You Black Emperor!
+90,"Tyler, the Creator"
+90,2pac
+91,Led Zeppelin
+92,Madvillain
+92,"Tyler, the Creator"
+93,My Bloody Valentine
+94,Madvillain
+94,My Bloody Valentine
+94,Radiohead
+94,Kendrick Lamar
+95,Janet Jackson
+95,Michael Jackson
+95,Kendrick Lamar
+95,My Bloody Valentine
+95,George Michael
+95,Led Zeppelin
+96,Judas Priest
+96,Madonna
+96,Iron Maiden
+96,Iron Maiden
+96,2pac
+96,Kanye West
+97,Led Zeppelin
+97,George Michael
+98,Radiohead
+98,Deep Purple
+98,Michael Jackson
+99,George Michael
+99,Madonna
+99,"Tyler, the Creator"
+99,Queen
+99,"Tyler, the Creator"
+99,Metallica
+100,Madonna
+100,Michael Jackson
+101,Kendrick Lamar
+101,Metallica
+101,Madonna
+102,Michael Jackson
+103,Judas Priest
+103,Jay-Z
+104,Deep Purple
+105,Radiohead
+105,My Bloody Valentine
+106,Radiohead
+107,Queen
+107,Bjork
+107,Kanye West
+108,George Michael
+108,Madvillain
+109,Scorpions
+109,Black Sabbath
+110,Bjork
+110,Madvillain
+110,Radiohead
+110,Madvillain
+110,Radiohead
+110,Iron Maiden
+110,Queen
+111,Kendrick Lamar
+111,George Michael
+112,Kendrick Lamar
+112,Megadeth
+112,Madonna
+113,Radiohead
+113,Bjork
+113,Bjork
+113,Michael Jackson
+113,Kanye West
+113,My Bloody Valentine
+114,Madonna
+114,George Michael
+114,Queen
+115,Queen
+115,Madvillain
+116,Michael Jackson
+117,Deep Purple
+117,Kendrick Lamar
+117,Megadeth
+117,Michael Jackson
+118,Queen
+119,2pac
+119,Michael Jackson
+119,Kanye West
+119,"Tyler, the Creator"
+120,Metallica
+120,Bjork
+120,Megadeth
+120,Kanye West
+120,Madvillain
+121,Radiohead
+121,Madvillain
+121,My Bloody Valentine
+121,Bjork
+122,Michael Jackson
+122,George Michael
+123,Michael Jackson
+124,Radiohead
+125,Madonna
+126,Motorhead
+126,Radiohead
+126,Queen
+127,Madonna
+127,Led Zeppelin
+127,Megadeth
+127,Michael Jackson
+127,Michael Jackson
+128,"Tyler, the Creator"
+128,Michael Jackson
+129,Madonna
+129,2pac
+130,Michael Jackson
+130,Madonna
+131,Queen
+131,2pac
+131,Metallica
+132,Jay-Z
+132,"Tyler, the Creator"
+132,Michael Jackson
+133,Metallica
+133,Iron Maiden
+134,Metallica
+134,Motorhead
+135,Madonna
+135,Deep Purple
+135,Radiohead
+136,Megadeth
+136,Madvillain
+136,Metallica
+137,Kendrick Lamar
+137,Kanye West
+137,Iron Maiden
+138,Kendrick Lamar
+138,Bjork
+138,Janet Jackson
+138,Madonna
+139,My Bloody Valentine
+139,Madvillain
+139,"Tyler, the Creator"
+139,Megadeth
+140,My Bloody Valentine
+141,Black Sabbath
+141,Bjork
+141,Queen
+141,Michael Jackson
+141,Metallica
+142,Metallica
+142,Iron Maiden
+142,Megadeth
+143,Metallica
+143,Megadeth
+144,Scorpions
+144,Queen
+144,Radiohead
+145,Queen
+145,Metallica
+145,Led Zeppelin
+145,Deep Purple
+145,Iron Maiden
+145,Michael Jackson
+146,Bjork
+146,Madonna
+147,Bjork
+147,Iron Maiden
+148,"Tyler, the Creator"
+148,Metallica
+148,Kendrick Lamar
+149,Janet Jackson
+149,Black Sabbath
+149,Bjork
+150,Bjork
+151,Led Zeppelin
+151,My Bloody Valentine
+151,Kanye West
+152,Godspeed You Black Emperor!
+152,My Bloody Valentine
+153,Judas Priest
+154,Iron Maiden
+154,Bjork
+154,Queen
+155,Queen
+155,Black Sabbath
+155,Scorpions
+155,Metallica
+156,Radiohead
+156,Motorhead
+157,Motorhead
+158,George Michael
+159,Radiohead
+159,Led Zeppelin
+159,Metallica
+160,Madonna
+160,Queen
+161,Janet Jackson
+161,Judas Priest
+161,Madonna
+161,Michael Jackson
+162,Led Zeppelin
+162,Kendrick Lamar
+162,Bjork
+163,Michael Jackson
+163,Metallica
+163,Deep Purple
+164,Metallica
+164,Madonna
+164,Queen
+164,My Bloody Valentine
+165,Radiohead
+165,"Tyler, the Creator"
+166,Radiohead
+166,"Tyler, the Creator"
+167,Motorhead
+167,Radiohead
+168,Madonna
+168,Metallica
+168,Radiohead
+168,George Michael
+168,"Tyler, the Creator"
+169,Black Sabbath
+169,Queen
+169,Radiohead
+170,Michael Jackson
+170,Radiohead
+171,George Michael
+171,Black Sabbath
+172,Radiohead
+172,Black Sabbath
+172,George Michael
+173,Radiohead
+173,My Bloody Valentine
+173,Michael Jackson
+173,My Bloody Valentine
+173,Black Sabbath
+173,Kendrick Lamar
+173,Godspeed You Black Emperor!
+174,Kanye West
+175,Judas Priest
+176,Madvillain
+176,Kendrick Lamar
+176,Metallica
+177,Megadeth
+177,Judas Priest
+177,My Bloody Valentine
+177,Michael Jackson
+177,Judas Priest
+177,Bjork
+178,Kanye West
+179,"Tyler, the Creator"
+179,Radiohead
+179,Queen
+179,Jay-Z
+179,Kanye West
+180,Scorpions
+180,Radiohead
+181,Bjork
+181,Led Zeppelin
+181,Led Zeppelin
+182,Madvillain
+182,Queen
+183,Madvillain
+183,My Bloody Valentine
+183,Kendrick Lamar
+184,Deep Purple
+184,Iron Maiden
+184,Radiohead
+185,Madonna
+186,Iron Maiden
+187,Metallica
+187,"Tyler, the Creator"
+187,Iron Maiden
+187,Iron Maiden
+187,Iron Maiden
+187,Judas Priest
+187,Iron Maiden
+188,Kendrick Lamar
+188,My Bloody Valentine
+189,2pac
+189,Bjork
+190,Black Sabbath
+190,Led Zeppelin
+191,Janet Jackson
+191,Michael Jackson
+192,"Tyler, the Creator"
+193,Bjork
+193,Iron Maiden
+194,Iron Maiden
+194,Metallica
+194,"Tyler, the Creator"
+194,Queen
+195,Iron Maiden
+195,Motorhead
+196,Michael Jackson
+197,Jay-Z
+197,Radiohead
+198,Radiohead
+199,Madonna
+199,Michael Jackson
+199,Kendrick Lamar
+199,2pac
+199,George Michael
+199,Michael Jackson
+199,Led Zeppelin
+200,Radiohead
+200,Queen
+201,2pac
+201,"Tyler, the Creator"
+201,My Bloody Valentine
+201,"Tyler, the Creator"
+201,"Tyler, the Creator"
+202,Kendrick Lamar
+203,Bjork
+203,Madonna
+203,Queen
+203,Metallica
+203,Kendrick Lamar
+204,Michael Jackson
+204,Kanye West
+204,Bjork
+205,Janet Jackson
+206,Radiohead
+206,Kendrick Lamar
+207,Bjork
+208,Kendrick Lamar
+208,Radiohead
+209,George Michael
+210,Kanye West
+210,Jay-Z
+210,Michael Jackson
+211,Madvillain
+211,Michael Jackson
+211,Led Zeppelin
+211,Megadeth
+211,Black Sabbath
+212,Metallica
+212,"Tyler, the Creator"
+212,Iron Maiden
+213,Michael Jackson
+214,Bjork
+214,My Bloody Valentine
+215,Kanye West
+215,"Tyler, the Creator"
+215,Prince
+215,Queen
+215,Iron Maiden
+216,Kanye West
+216,Black Sabbath
+216,Kendrick Lamar
+216,Bjork
+217,"Tyler, the Creator"
+217,George Michael
+217,Madonna
+217,Madonna
+217,Godspeed You Black Emperor!
+217,Iron Maiden
+217,George Michael
+218,Led Zeppelin
+218,Metallica
+218,Radiohead
+218,Megadeth
+219,Kanye West
+219,Janet Jackson
+219,Jay-Z
+219,Metallica
+220,Prince
+220,Michael Jackson
+220,Michael Jackson
+220,Michael Jackson
+220,"Tyler, the Creator"
+220,Madonna
+221,George Michael
+221,Bjork
+221,Black Sabbath
+221,Deep Purple
+221,Michael Jackson
+222,Radiohead
+222,Bjork
+222,Megadeth
+222,Kanye West
+223,Led Zeppelin
+223,Megadeth
+223,Judas Priest
+223,"Tyler, the Creator"
+223,Black Sabbath
+223,Black Sabbath
+223,Deep Purple
+224,Michael Jackson
+224,Madonna
+224,Madonna
+225,Black Sabbath
+225,My Bloody Valentine
+226,Kendrick Lamar
+226,Kanye West
+226,Kanye West
+227,Deep Purple
+227,George Michael
+227,Radiohead
+227,Iron Maiden
+227,Bjork
+227,Queen
+227,Queen
+228,My Bloody Valentine
+228,Kanye West
+228,Bjork
+229,Kanye West
+229,Metallica
+229,Kendrick Lamar
+229,Metallica
+229,Kendrick Lamar
+229,Deep Purple
+229,Kendrick Lamar
+230,Bjork
+230,Queen
+230,2pac
+231,Black Sabbath
+231,Queen
+232,Radiohead
+232,Michael Jackson
+232,My Bloody Valentine
+233,Kendrick Lamar
+234,Kendrick Lamar
+234,Radiohead
+234,Led Zeppelin
+234,Metallica
+234,Megadeth
+235,Madvillain
+235,Godspeed You Black Emperor!
+236,Deep Purple
+236,Madonna
+237,Radiohead
+237,Bjork
+237,"Tyler, the Creator"
+237,Kanye West
+237,Kanye West
+237,Kendrick Lamar
+238,2pac
+238,Megadeth
+238,Janet Jackson
+239,My Bloody Valentine
+239,Kendrick Lamar
+240,Radiohead
+241,Godspeed You Black Emperor!
+242,Led Zeppelin
+242,Iron Maiden
+242,Kendrick Lamar
+242,Deep Purple
+243,George Michael
+243,Bjork
+244,Radiohead
+245,"Tyler, the Creator"
+245,Michael Jackson
+245,Queen
+246,George Michael
+246,Queen
+246,Kendrick Lamar
+246,"Tyler, the Creator"
+246,Deep Purple
+247,"Tyler, the Creator"
+248,My Bloody Valentine
+248,George Michael
+248,Bjork
+248,Bjork
+248,Judas Priest
+248,Godspeed You Black Emperor!
+249,Deep Purple
+249,Metallica
+249,Black Sabbath
+249,George Michael
+250,Queen
+251,Janet Jackson
+251,Prince
+251,My Bloody Valentine
+251,My Bloody Valentine
+252,Kendrick Lamar
+252,"Tyler, the Creator"
+252,Queen
+252,Bjork
+252,Madvillain
+252,2pac
+252,Queen
+253,Metallica
+253,Motorhead
+253,Radiohead
+253,Michael Jackson
+254,Iron Maiden
+255,Godspeed You Black Emperor!
+255,My Bloody Valentine
+255,Radiohead
+255,Madvillain
+256,Radiohead
+256,Kendrick Lamar
+256,Bjork
+256,George Michael
+256,Kanye West
+257,Metallica
+257,Radiohead
+258,George Michael
+258,Madonna
+259,Queen
+259,Led Zeppelin
+259,Led Zeppelin
+260,"Tyler, the Creator"
+260,Queen
+260,Madonna
+260,Judas Priest
+261,Led Zeppelin
+261,2pac
+261,Queen
+261,Kendrick Lamar
+262,Scorpions
+263,Madvillain
+263,Bjork
+263,Radiohead
+263,Godspeed You Black Emperor!
+263,Kendrick Lamar
+263,Bjork
+263,My Bloody Valentine
+264,Queen
+265,Kendrick Lamar
+265,"Tyler, the Creator"
+265,Deep Purple
+266,Iron Maiden
+267,Bjork
+267,Radiohead
+268,Led Zeppelin
+268,My Bloody Valentine
+269,Judas Priest
+270,Bjork
+270,Radiohead
+271,Kendrick Lamar
+271,Black Sabbath
+272,Iron Maiden
+272,Metallica
+272,Metallica
+272,Kendrick Lamar
+273,Led Zeppelin
+273,Scorpions
+274,Michael Jackson
+274,Prince
+274,Queen
+274,Led Zeppelin
+274,Kendrick Lamar
+274,George Michael
+275,Black Sabbath
+275,Radiohead
+276,Kendrick Lamar
+276,Led Zeppelin
+277,Iron Maiden
+277,Queen
+277,Metallica
+277,Metallica
+277,Janet Jackson
+278,Janet Jackson
+279,Scorpions
+279,Deep Purple
+279,Queen
+280,Scorpions
+280,Led Zeppelin
+280,Janet Jackson
+280,Led Zeppelin
+281,My Bloody Valentine
+281,Iron Maiden
+281,Queen
+282,Metallica
+282,Queen
+282,Queen
+282,Black Sabbath
+283,Bjork
+283,Godspeed You Black Emperor!
+283,Metallica
+283,Queen
+283,Led Zeppelin
+283,Michael Jackson
+284,Black Sabbath
+284,Bjork
+284,Jay-Z
+284,George Michael
+284,Scorpions
+285,Queen
+285,"Tyler, the Creator"
+285,Deep Purple
+285,Metallica
+286,My Bloody Valentine
+286,"Tyler, the Creator"
+287,Scorpions
+288,Michael Jackson
+288,Bjork
+289,Michael Jackson
+289,George Michael
+289,My Bloody Valentine
+289,Madonna
+289,Prince
+289,"Tyler, the Creator"
+290,Megadeth
+290,Michael Jackson
+291,Deep Purple
+291,Led Zeppelin
+291,Madonna
+292,Deep Purple
+292,Iron Maiden
+292,George Michael
+293,"Tyler, the Creator"
+293,Madvillain
+294,George Michael
+294,Janet Jackson
+294,Madonna
+295,Metallica
+296,Judas Priest
+296,Metallica
+296,Queen
+297,Deep Purple
+298,Radiohead
+298,Judas Priest
+298,Megadeth
+299,"Tyler, the Creator"
+299,My Bloody Valentine
+299,Kanye West
+300,Madvillain
+300,"Tyler, the Creator"
+300,Led Zeppelin
+300,George Michael
+300,Kendrick Lamar
+300,Metallica
+301,Black Sabbath
+301,Jay-Z
+301,Led Zeppelin
+302,Kendrick Lamar
+302,"Tyler, the Creator"
+302,Iron Maiden
+303,"Tyler, the Creator"
+303,Madonna
+303,Kendrick Lamar
+303,Queen
+304,Kendrick Lamar
+304,Metallica
+305,Janet Jackson
+305,Michael Jackson
+305,2pac
+305,Michael Jackson
+306,Radiohead
+306,Deep Purple
+306,"Tyler, the Creator"
+306,Godspeed You Black Emperor!
+307,Michael Jackson
+307,"Tyler, the Creator"
+307,My Bloody Valentine
+308,Radiohead
+308,My Bloody Valentine
+308,Scorpions
+308,"Tyler, the Creator"
+308,Michael Jackson
+308,"Tyler, the Creator"
+308,Megadeth
+309,Madvillain
+309,"Tyler, the Creator"
+309,Radiohead
+310,Madvillain
+311,Jay-Z
+312,Kendrick Lamar
+312,Jay-Z
+313,Michael Jackson
+313,Kendrick Lamar
+313,Janet Jackson
+313,Kendrick Lamar
+314,Scorpions
+314,Led Zeppelin
+315,Led Zeppelin
+315,Jay-Z
+315,Queen
+315,Metallica
+316,George Michael
+316,Kanye West
+316,Radiohead
+317,Megadeth
+318,"Tyler, the Creator"
+319,Bjork
+319,Radiohead
+320,Iron Maiden
+321,Kendrick Lamar
+321,Madonna
+321,Iron Maiden
+321,Radiohead
+321,Michael Jackson
+321,Metallica
+322,Deep Purple
+322,Queen
+322,My Bloody Valentine
+322,Queen
+322,Godspeed You Black Emperor!
+323,My Bloody Valentine
+323,Black Sabbath
+324,Michael Jackson
+324,Janet Jackson
+324,Madonna
+324,George Michael
+325,Black Sabbath
+326,Motorhead
+326,Janet Jackson
+326,Janet Jackson
+326,Metallica
+327,Radiohead
+327,Queen
+328,Iron Maiden
+329,Scorpions
+329,Black Sabbath
+329,Deep Purple
+329,Led Zeppelin
+329,Led Zeppelin
+329,Queen
+330,Iron Maiden
+330,Metallica
+331,My Bloody Valentine
+332,Prince
+332,Queen
+333,Radiohead
+334,Michael Jackson
+334,"Tyler, the Creator"
+334,My Bloody Valentine
+334,Janet Jackson
+334,Prince
+334,Led Zeppelin
+334,My Bloody Valentine
+335,Jay-Z
+335,Janet Jackson
+336,George Michael
+336,Michael Jackson
+336,Kanye West
+337,Queen
+337,Kendrick Lamar
+337,Bjork
+337,Bjork
+337,Judas Priest
+338,Radiohead
+338,Kanye West
+338,Bjork
+338,Black Sabbath
+338,My Bloody Valentine
+339,Led Zeppelin
+339,Kendrick Lamar
+339,Queen
+339,Iron Maiden
+339,Scorpions
+339,Bjork
+340,Radiohead
+341,Michael Jackson
+342,Queen
+342,Motorhead
+342,Black Sabbath
+343,Megadeth
+344,Michael Jackson
+345,Radiohead
+345,Bjork
+346,Madvillain
+346,Kendrick Lamar
+347,Radiohead
+348,Bjork
+348,Kendrick Lamar
+349,2pac
+349,"Tyler, the Creator"
+350,Radiohead
+351,Judas Priest
+351,Michael Jackson
+351,Metallica
+351,Madonna
+351,Iron Maiden
+351,George Michael
+351,George Michael
+352,Iron Maiden
+352,2pac
+352,Megadeth
+352,Led Zeppelin
+352,Black Sabbath
+352,Michael Jackson
+352,"Tyler, the Creator"
+353,Michael Jackson
+353,Janet Jackson
+354,Scorpions
+355,Kanye West
+355,"Tyler, the Creator"
+355,Madvillain
+356,Kanye West
+357,Metallica
+357,Deep Purple
+358,Kendrick Lamar
+359,Metallica
+359,Queen
+359,Michael Jackson
+359,Bjork
+359,George Michael
+360,Madvillain
+360,Radiohead
+361,Led Zeppelin
+362,Madonna
+362,Bjork
+362,Janet Jackson
+362,Bjork
+363,Radiohead
+363,Madonna
+363,Madvillain
+364,Janet Jackson
+365,Kanye West
+365,Janet Jackson
+365,Iron Maiden
+366,Queen
+366,Metallica
+366,Led Zeppelin
+366,Led Zeppelin
+366,"Tyler, the Creator"
+367,Janet Jackson
+368,My Bloody Valentine
+368,Radiohead
+369,Queen
+370,Iron Maiden
+371,Queen
+371,Deep Purple
+371,Iron Maiden
+372,Metallica
+372,Megadeth
+372,Michael Jackson
+373,My Bloody Valentine
+373,Radiohead
+373,Black Sabbath
+373,Scorpions
+373,Michael Jackson
+373,Janet Jackson
+374,My Bloody Valentine
+374,Janet Jackson
+374,Bjork
+375,Bjork
+376,Led Zeppelin
+377,Prince
+378,Iron Maiden
+378,Megadeth
+378,Queen
+378,Judas Priest
+378,Michael Jackson
+378,Judas Priest
+379,Scorpions
+379,My Bloody Valentine
+379,Queen
+380,Radiohead
+380,Michael Jackson
+381,Iron Maiden
+382,Queen
+383,Kanye West
+384,Prince
+385,Radiohead
+385,Scorpions
+385,My Bloody Valentine
+385,Led Zeppelin
+385,Madonna
+385,My Bloody Valentine
+386,Metallica
+386,Judas Priest
+387,Queen
+387,Led Zeppelin
+388,Queen
+388,Janet Jackson
+388,Scorpions
+388,Metallica
+389,Kendrick Lamar
+390,Michael Jackson
+390,Madonna
+391,Led Zeppelin
+391,"Tyler, the Creator"
+391,Judas Priest
+391,Madonna
+392,Led Zeppelin
+392,Queen
+392,Deep Purple
+392,Michael Jackson
+392,Queen
+393,Kendrick Lamar
+394,My Bloody Valentine
+394,Metallica
+395,Bjork
+396,Jay-Z
+396,Bjork
+396,Madonna
+396,Radiohead
+397,Metallica
+397,George Michael
+398,"Tyler, the Creator"
+398,Godspeed You Black Emperor!
+399,Madvillain
+399,Iron Maiden
+399,Godspeed You Black Emperor!
+400,Iron Maiden
+400,"Tyler, the Creator"
+401,Kendrick Lamar
+401,George Michael
+401,Kanye West
+402,Metallica
+402,Radiohead
+403,Metallica
+403,Megadeth
+403,2pac
+403,Deep Purple
+404,Megadeth
+404,Metallica
+404,Kendrick Lamar
+404,Deep Purple
+404,Prince
+405,Kendrick Lamar
+406,Led Zeppelin
+407,Kanye West
+407,My Bloody Valentine
+407,Michael Jackson
+407,Judas Priest
+408,Queen
+408,Godspeed You Black Emperor!
+408,Kanye West
+409,2pac
+409,Madonna
+409,Metallica
+409,Kanye West
+409,Iron Maiden
+410,Madonna
+410,Scorpions
+410,Bjork
+410,Led Zeppelin
+410,Michael Jackson
+410,Janet Jackson
+411,Metallica
+411,Janet Jackson
+411,Judas Priest
+411,"Tyler, the Creator"
+411,2pac
+412,Scorpions
+412,Bjork
+412,Led Zeppelin
+412,"Tyler, the Creator"
+412,Black Sabbath
+412,Led Zeppelin
+413,Michael Jackson
+413,Janet Jackson
+413,Bjork
+413,Kendrick Lamar
+414,Jay-Z
+414,Kendrick Lamar
+415,Judas Priest
+415,Metallica
+416,Madonna
+417,"Tyler, the Creator"
+417,Iron Maiden
+418,Kendrick Lamar
+418,Black Sabbath
+419,Madonna
+420,Iron Maiden
+420,Judas Priest
+421,Judas Priest
+421,Madvillain
+422,Megadeth
+422,Michael Jackson
+422,Judas Priest
+423,Metallica
+423,Prince
+423,Janet Jackson
+423,Prince
+424,Iron Maiden
+424,Judas Priest
+424,Kanye West
+424,Queen
+424,Queen
+424,Bjork
+424,Bjork
+425,Megadeth
+425,Madonna
+425,Metallica
+426,Kendrick Lamar
+426,My Bloody Valentine
+427,Janet Jackson
+428,Kanye West
+428,My Bloody Valentine
+429,Bjork
+429,Radiohead
+429,Kendrick Lamar
+430,Judas Priest
+431,Iron Maiden
+431,Megadeth
+431,Queen
+431,Metallica
+431,Radiohead
+432,Queen
+432,George Michael
+432,Metallica
+432,"Tyler, the Creator"
+432,Judas Priest
+432,Led Zeppelin
+433,Radiohead
+433,Madonna
+433,Queen
+433,Kanye West
+434,Janet Jackson
+434,Kendrick Lamar
+434,Led Zeppelin
+434,Megadeth
+434,George Michael
+435,Queen
+435,Madonna
+435,Bjork
+435,Kanye West
+436,George Michael
+436,Michael Jackson
+436,Iron Maiden
+437,Michael Jackson
+437,Janet Jackson
+437,Radiohead
+437,Janet Jackson
+437,Prince
+437,Godspeed You Black Emperor!
+438,Janet Jackson
+438,Michael Jackson
+438,Iron Maiden
+438,Black Sabbath
+438,Queen
+438,Kendrick Lamar
+439,"Tyler, the Creator"
+439,Black Sabbath
+440,"Tyler, the Creator"
+440,Radiohead
+440,Led Zeppelin
+440,Judas Priest
+441,Kendrick Lamar
+441,Led Zeppelin
+442,Janet Jackson
+442,Kendrick Lamar
+442,Madonna
+442,Iron Maiden
+443,Led Zeppelin
+444,Scorpions
+444,George Michael
+444,Metallica
+444,Radiohead
+444,Radiohead
+445,Metallica
+445,Iron Maiden
+445,Iron Maiden
+446,Michael Jackson
+446,Madonna
+446,Radiohead
+446,Madvillain
+447,Bjork
+447,Black Sabbath
+447,Iron Maiden
+447,Michael Jackson
+447,My Bloody Valentine
+447,Kendrick Lamar
+448,Led Zeppelin
+448,Scorpions
+448,Deep Purple
+448,Michael Jackson
+448,Metallica
+448,"Tyler, the Creator"
+449,Bjork
+449,Scorpions
+449,Megadeth
+450,Black Sabbath
+450,Iron Maiden
+450,Kendrick Lamar
+451,2pac
+451,Radiohead
+451,Radiohead
+451,Metallica
+452,Megadeth
+452,Metallica
+452,2pac
+453,My Bloody Valentine
+453,"Tyler, the Creator"
+453,Deep Purple
+453,Kanye West
+454,Madvillain
+454,Kanye West
+454,Bjork
+454,Kanye West
+454,Megadeth
+454,Led Zeppelin
+455,Michael Jackson
+456,George Michael
+456,Black Sabbath
+456,Kendrick Lamar
+456,Radiohead
+456,Kanye West
+456,Madonna
+457,Prince
+457,Janet Jackson
+458,Michael Jackson
+459,Led Zeppelin
+459,Scorpions
+459,Metallica
+459,Kendrick Lamar
+459,Queen
+460,Judas Priest
+460,Iron Maiden
+461,Kanye West
+461,Megadeth
+462,Iron Maiden
+462,Bjork
+462,Radiohead
+463,Metallica
+463,Black Sabbath
+464,Radiohead
+464,Kendrick Lamar
+464,George Michael
+464,Bjork
+464,Madvillain
+465,Iron Maiden
+465,Megadeth
+466,2pac
+466,Led Zeppelin
+467,Kanye West
+468,Radiohead
+468,Godspeed You Black Emperor!
+468,Queen
+468,My Bloody Valentine
+469,Jay-Z
+469,Metallica
+469,Deep Purple
+470,Metallica
+471,Iron Maiden
+471,Black Sabbath
+472,Queen
+472,Deep Purple
+472,George Michael
+473,Queen
+473,Bjork
+474,Megadeth
+474,2pac
+475,Kendrick Lamar
+475,Godspeed You Black Emperor!
+475,"Tyler, the Creator"
+475,"Tyler, the Creator"
+476,Godspeed You Black Emperor!
+476,Prince
+476,Madonna
+476,Kendrick Lamar
+476,Madonna
+476,Megadeth
+476,Iron Maiden
+477,Metallica
+477,Iron Maiden
+477,Bjork
+477,Kanye West
+477,Judas Priest
+478,"Tyler, the Creator"
+479,Madonna
+480,Kendrick Lamar
+480,Kanye West
+481,Madvillain
+481,Michael Jackson
+482,My Bloody Valentine
+482,Kendrick Lamar
+483,Queen
+483,Michael Jackson
+484,Janet Jackson
+484,"Tyler, the Creator"
+484,Judas Priest
+484,Madonna
+485,Madonna
+485,Megadeth
+485,Led Zeppelin
+485,Judas Priest
+486,Queen
+487,Scorpions
+488,Queen
+488,Led Zeppelin
+489,"Tyler, the Creator"
+489,Kendrick Lamar
+489,Kendrick Lamar
+489,2pac
+490,Madonna
+490,Michael Jackson
+490,Michael Jackson
+490,Michael Jackson
+490,Judas Priest
+490,Radiohead
+490,Michael Jackson
+491,Judas Priest
+491,Megadeth
+491,Queen
+492,Megadeth
+493,George Michael
+493,2pac
+493,Megadeth
+493,Kendrick Lamar
+493,Michael Jackson
+493,My Bloody Valentine
+493,Bjork
+494,Deep Purple
+495,Madvillain
+495,Deep Purple
+496,Bjork
+496,Megadeth
+497,Janet Jackson
+497,Iron Maiden
+498,Queen
+498,Janet Jackson
+498,Led Zeppelin
+499,Queen
+499,Black Sabbath
+500,Black Sabbath
+501,Madonna
+501,Kanye West
+502,My Bloody Valentine
+503,My Bloody Valentine
+503,Metallica
+503,Radiohead
+503,Black Sabbath
+503,Radiohead
+504,Michael Jackson
+504,Madonna
+504,George Michael
+504,Scorpions
+504,Megadeth
+505,Kanye West
+505,Kendrick Lamar
+505,Kendrick Lamar
+505,Madonna
+505,Madvillain
+506,Radiohead
+506,Bjork
+506,Madvillain
+506,Led Zeppelin
+507,Madvillain
+507,Iron Maiden
+507,Radiohead
+507,Queen
+507,Queen
+508,Michael Jackson
+508,Bjork
+508,Madvillain
+508,Madvillain
+508,Megadeth
+509,2pac
+509,Megadeth
+509,Bjork
+510,Madvillain
+511,2pac
+511,"Tyler, the Creator"
+512,Queen
+512,Bjork
+513,Michael Jackson
+513,Kendrick Lamar
+513,Prince
+513,Kanye West
+514,"Tyler, the Creator"
+515,George Michael
+515,Kanye West
+516,Queen
+516,"Tyler, the Creator"
+516,Bjork
+516,Madvillain
+516,Black Sabbath
+517,Megadeth
+517,Metallica
+518,George Michael
+518,Motorhead
+518,Metallica
+519,Iron Maiden
+520,Bjork
+520,Madvillain
+521,George Michael
+521,Kendrick Lamar
+522,Metallica
+522,Judas Priest
+523,Bjork
+524,Michael Jackson
+524,Madonna
+524,2pac
+524,Madonna
+524,Madonna
+525,Metallica
+525,Jay-Z
+525,Prince
+525,George Michael
+526,"Tyler, the Creator"
+527,Led Zeppelin
+528,Metallica
+528,Bjork
+529,Janet Jackson
+529,Madonna
+529,George Michael
+530,Michael Jackson
+531,Kendrick Lamar
+532,Iron Maiden
+532,Prince
+532,Kanye West
+532,Led Zeppelin
+532,Queen
+532,Megadeth
+533,Metallica
+534,Bjork
+535,Janet Jackson
+536,Madonna
+537,Metallica
+537,Kendrick Lamar
+538,Kanye West
+538,George Michael
+538,Metallica
+538,Godspeed You Black Emperor!
+538,Prince
+539,Michael Jackson
+539,Radiohead
+540,Janet Jackson
+541,Madvillain
+541,Radiohead
+542,"Tyler, the Creator"
+542,Kendrick Lamar
+542,George Michael
+542,Kanye West
+542,Iron Maiden
+543,Queen
+543,"Tyler, the Creator"
+543,Janet Jackson
+543,Prince
+543,"Tyler, the Creator"
+544,George Michael
+544,Iron Maiden
+545,Led Zeppelin
+545,Queen
+545,Madonna
+545,Metallica
+546,Bjork
+546,George Michael
+546,George Michael
+546,My Bloody Valentine
+547,Queen
+548,Radiohead
+549,Black Sabbath
+549,Radiohead
+549,George Michael
+550,My Bloody Valentine
+550,Madvillain
+550,Radiohead
+550,Iron Maiden
+551,2pac
+551,"Tyler, the Creator"
+552,Madonna
+552,George Michael
+552,Led Zeppelin
+552,George Michael
+553,My Bloody Valentine
+554,Led Zeppelin
+555,Megadeth
+555,Metallica
+556,Jay-Z
+556,Kendrick Lamar
+556,Black Sabbath
+556,Kanye West
+556,Kanye West
+557,Madonna
+557,Michael Jackson
+557,Kanye West
+557,Black Sabbath
+557,Led Zeppelin
+557,Scorpions
+558,Metallica
+559,Radiohead
+560,2pac
+560,George Michael
+560,Bjork
+560,Metallica
+560,Madvillain
+560,Radiohead
+561,Kendrick Lamar
+561,Michael Jackson
+562,Bjork
+562,Radiohead
+563,Led Zeppelin
+563,Metallica
+563,Queen
+563,Queen
+563,Michael Jackson
+563,Prince
+564,Iron Maiden
+564,Metallica
+564,"Tyler, the Creator"
+564,Queen
+565,Bjork
+565,Madonna
+565,Radiohead
+565,Radiohead
+566,My Bloody Valentine
+566,Deep Purple
+566,Janet Jackson
+566,Madvillain
+567,Janet Jackson
+567,Jay-Z
+567,Michael Jackson
+567,Kanye West
+568,Black Sabbath
+568,"Tyler, the Creator"
+568,Michael Jackson
+568,Queen
+568,Madonna
+568,Queen
+569,Led Zeppelin
+569,Michael Jackson
+569,"Tyler, the Creator"
+569,Black Sabbath
+569,2pac
+569,Deep Purple
+570,Jay-Z
+570,"Tyler, the Creator"
+571,Kendrick Lamar
+571,Radiohead
+571,2pac
+571,"Tyler, the Creator"
+572,Scorpions
+572,Black Sabbath
+573,Motorhead
+574,2pac
+575,Megadeth
+576,Bjork
+576,Madvillain
+576,Madonna
+576,Madvillain
+577,Jay-Z
+577,Queen
+577,Deep Purple
+578,Madonna
+579,Iron Maiden
+580,Black Sabbath
+580,Michael Jackson
+580,Scorpions
+581,My Bloody Valentine
+581,Madvillain
+582,Bjork
+582,Megadeth
+583,Madonna
+584,Led Zeppelin
+585,Bjork
+585,Michael Jackson
+585,Black Sabbath
+585,Iron Maiden
+585,Michael Jackson
+586,Iron Maiden
+587,Bjork
+587,Metallica
+587,Janet Jackson
+588,Madonna
+588,Michael Jackson
+589,My Bloody Valentine
+589,Megadeth
+590,Led Zeppelin
+590,Iron Maiden
+591,Madonna
+591,Metallica
+591,Queen
+591,George Michael
+591,Led Zeppelin
+591,Led Zeppelin
+591,Kendrick Lamar
+592,"Tyler, the Creator"
+592,Led Zeppelin
+593,Bjork
+593,Madvillain
+593,Megadeth
+593,Radiohead
+594,Deep Purple
+594,Iron Maiden
+595,Kendrick Lamar
+595,Radiohead
+596,Radiohead
+597,Michael Jackson
+598,Judas Priest
+598,Iron Maiden
+598,Michael Jackson
+598,Black Sabbath
+598,My Bloody Valentine
+598,Iron Maiden
+598,Metallica
+599,Led Zeppelin
+600,Scorpions
+600,Deep Purple
+601,Led Zeppelin
+602,Led Zeppelin
+603,Metallica
+603,Michael Jackson
+603,Madvillain
+603,Megadeth
+603,Black Sabbath
+604,Iron Maiden
+605,Radiohead
+605,Jay-Z
+605,Led Zeppelin
+606,Radiohead
+606,2pac
+606,George Michael
+607,Kendrick Lamar
+608,Led Zeppelin
+608,Megadeth
+609,"Tyler, the Creator"
+610,Bjork
+610,George Michael
+611,Michael Jackson
+611,Megadeth
+611,Led Zeppelin
+612,Metallica
+613,Radiohead
+613,"Tyler, the Creator"
+613,Bjork
+614,George Michael
+614,Kendrick Lamar
+614,Madonna
+614,Madonna
+614,Madonna
+614,Radiohead
+614,Kanye West
+615,Iron Maiden
+616,Megadeth
+616,Metallica
+617,Black Sabbath
+617,Metallica
+617,Megadeth
+618,Judas Priest
+618,Metallica
+619,Iron Maiden
+619,George Michael
+619,Metallica
+619,Queen
+620,Kanye West
+620,Kendrick Lamar
+621,Megadeth
+621,Led Zeppelin
+621,George Michael
+622,Michael Jackson
+622,Iron Maiden
+622,Kendrick Lamar
+622,Bjork
+622,Black Sabbath
+623,Radiohead
+623,Led Zeppelin
+623,Kanye West
+624,Madonna
+624,Michael Jackson
+624,Michael Jackson
+625,Black Sabbath
+625,Deep Purple
+625,Iron Maiden
+625,Bjork
+625,Queen
+625,Bjork
+625,Judas Priest
+626,Iron Maiden
+626,Judas Priest
+626,My Bloody Valentine
+627,Radiohead
+627,Bjork
+628,Kendrick Lamar
+628,Metallica
+628,Kanye West
+629,Radiohead
+630,Radiohead
+630,Godspeed You Black Emperor!
+630,Queen
+631,Metallica
+632,Michael Jackson
+632,George Michael
+632,Metallica
+632,Madonna
+632,Madonna
+632,George Michael
+633,Jay-Z
+633,Kanye West
+633,"Tyler, the Creator"
+633,Janet Jackson
+633,"Tyler, the Creator"
+634,My Bloody Valentine
+635,Metallica
+635,Michael Jackson
+635,My Bloody Valentine
+636,Iron Maiden
+636,Scorpions
+636,Metallica
+637,Madvillain
+637,Radiohead
+637,Michael Jackson
+637,Kanye West
+637,Michael Jackson
+638,Metallica
+638,Radiohead
+639,2pac
+639,Black Sabbath
+639,Jay-Z
+639,Jay-Z
+640,Kanye West
+640,Kendrick Lamar
+641,Queen
+641,Megadeth
+641,Deep Purple
+642,Michael Jackson
+642,Madonna
+642,George Michael
+643,Motorhead
+643,Iron Maiden
+643,Iron Maiden
+643,Megadeth
+644,Radiohead
+644,Led Zeppelin
+645,Led Zeppelin
+645,Scorpions
+646,Bjork
+646,Kendrick Lamar
+646,Madvillain
+646,Queen
+647,Metallica
+647,Bjork
+648,Metallica
+649,"Tyler, the Creator"
+649,Radiohead
+649,Queen
+649,Kendrick Lamar
+649,George Michael
+650,George Michael
+650,Deep Purple
+650,Madonna
+650,Madonna
+651,Metallica
+651,Kanye West
+651,Michael Jackson
+652,Madonna
+652,Janet Jackson
+653,Madonna
+653,Judas Priest
+653,Michael Jackson
+653,Radiohead
+653,George Michael
+654,My Bloody Valentine
+654,"Tyler, the Creator"
+655,Jay-Z
+655,Radiohead
+656,George Michael
+656,Kanye West
+656,Madonna
+657,"Tyler, the Creator"
+658,Madonna
+658,Janet Jackson
+658,Kendrick Lamar
+658,Michael Jackson
+658,2pac
+659,Judas Priest
+659,Metallica
+659,Metallica
+659,Prince
+659,Iron Maiden
+660,Madonna
+661,Kanye West
+661,Kendrick Lamar
+661,Kendrick Lamar
+661,Kendrick Lamar
+661,Queen
+661,Queen
+661,George Michael
+662,George Michael
+662,Kendrick Lamar
+663,Madonna
+663,Madvillain
+663,Michael Jackson
+663,George Michael
+664,Queen
+664,Kendrick Lamar
+665,Bjork
+665,"Tyler, the Creator"
+665,Motorhead
+665,Deep Purple
+665,George Michael
+666,Kanye West
+667,Iron Maiden
+668,2pac
+668,"Tyler, the Creator"
+669,Megadeth
+670,Kendrick Lamar
+670,Black Sabbath
+670,Kanye West
+670,Black Sabbath
+671,Black Sabbath
+671,Kanye West
+671,Led Zeppelin
+672,Black Sabbath
+672,Radiohead
+672,Megadeth
+672,Deep Purple
+672,Kendrick Lamar
+672,Kanye West
+672,Michael Jackson
+673,Metallica
+674,Led Zeppelin
+674,Queen
+674,Kendrick Lamar
+675,"Tyler, the Creator"
+675,Kendrick Lamar
+675,Queen
+675,Kanye West
+675,George Michael
+675,Iron Maiden
+675,2pac
+676,Radiohead
+676,My Bloody Valentine
+676,Iron Maiden
+677,Bjork
+677,Radiohead
+678,"Tyler, the Creator"
+678,Kanye West
+678,Queen
+679,Michael Jackson
+680,Kendrick Lamar
+681,Madonna
+681,Kendrick Lamar
+681,Michael Jackson
+681,Iron Maiden
+682,Kanye West
+682,Bjork
+683,Iron Maiden
+683,Metallica
+683,Motorhead
+683,Queen
+683,Motorhead
+683,Michael Jackson
+684,Godspeed You Black Emperor!
+684,Megadeth
+684,Queen
+685,Kendrick Lamar
+685,"Tyler, the Creator"
+685,Radiohead
+685,Prince
+686,Madonna
+686,"Tyler, the Creator"
+687,Radiohead
+687,My Bloody Valentine
+687,Madvillain
+687,Led Zeppelin
+687,Judas Priest
+687,Godspeed You Black Emperor!
+687,Bjork
+688,Led Zeppelin
+689,Iron Maiden
+689,Led Zeppelin
+690,Queen
+690,Bjork
+690,Black Sabbath
+690,"Tyler, the Creator"
+691,Madonna
+692,Queen
+692,Kendrick Lamar
+692,Megadeth
+692,Iron Maiden
+693,2pac
+693,Kendrick Lamar
+693,"Tyler, the Creator"
+694,"Tyler, the Creator"
+694,Madvillain
+694,Kanye West
+694,2pac
+694,Queen
+694,Kanye West
+695,Michael Jackson
+695,George Michael
+695,Deep Purple
+695,Bjork
+696,Kanye West
+696,Led Zeppelin
+697,2pac
+697,"Tyler, the Creator"
+698,Motorhead
+698,Iron Maiden
+699,Led Zeppelin
+700,Motorhead
+701,Radiohead
+701,Scorpions
+702,Metallica
+702,Queen
+703,Motorhead
+703,Iron Maiden
+703,Iron Maiden
+703,Iron Maiden
+703,Judas Priest
+704,George Michael
+704,Kendrick Lamar
+704,Madonna
+704,Janet Jackson
+705,Radiohead
+705,Megadeth
+705,Bjork
+705,Madvillain
+706,Janet Jackson
+706,"Tyler, the Creator"
+706,Godspeed You Black Emperor!
+706,Michael Jackson
+707,Motorhead
+708,Led Zeppelin
+708,Queen
+708,Madonna
+708,Radiohead
+708,Metallica
+709,Madonna
+709,Michael Jackson
+709,Bjork
+709,Kanye West
+710,2pac
+710,Megadeth
+710,"Tyler, the Creator"
+710,Kendrick Lamar
+710,Kanye West
+710,George Michael
+711,Godspeed You Black Emperor!
+711,Bjork
+711,Deep Purple
+712,Madonna
+712,Judas Priest
+713,Deep Purple
+714,Motorhead
+714,Judas Priest
+714,Michael Jackson
+714,Bjork
+714,Bjork
+714,Radiohead
+715,Radiohead
+715,"Tyler, the Creator"
+715,Godspeed You Black Emperor!
+716,Jay-Z
+716,Kendrick Lamar
+717,Iron Maiden
+717,Megadeth
+717,Megadeth
+718,My Bloody Valentine
+718,George Michael
+718,Radiohead
+719,Radiohead
+719,Led Zeppelin
+719,My Bloody Valentine
+719,Bjork
+719,Deep Purple
+719,George Michael
+720,Metallica
+720,"Tyler, the Creator"
+720,Black Sabbath
+720,Judas Priest
+721,Kanye West
+721,George Michael
+721,Godspeed You Black Emperor!
+722,Kanye West
+722,Radiohead
+723,George Michael
+724,2pac
+724,Kendrick Lamar
+725,George Michael
+725,Led Zeppelin
+725,Radiohead
+726,Madonna
+726,Prince
+727,Kendrick Lamar
+727,Queen
+728,Jay-Z
+728,Radiohead
+729,Bjork
+729,Radiohead
+730,Madonna
+730,"Tyler, the Creator"
+730,Judas Priest
+730,My Bloody Valentine
+731,Judas Priest
+731,Kanye West
+732,"Tyler, the Creator"
+732,Kendrick Lamar
+733,Kanye West
+733,"Tyler, the Creator"
+733,Kendrick Lamar
+733,Queen
+733,Kendrick Lamar
+733,Megadeth
+733,Kendrick Lamar
+734,Iron Maiden
+735,Madonna
+735,George Michael
+736,George Michael
+736,Prince
+736,Michael Jackson
+736,My Bloody Valentine
+737,Scorpions
+738,Iron Maiden
+738,Scorpions
+738,My Bloody Valentine
+738,Madonna
+739,Madvillain
+740,Kanye West
+740,Judas Priest
+740,Madonna
+740,"Tyler, the Creator"
+741,2pac
+741,Metallica
+742,George Michael
+742,Michael Jackson
+742,My Bloody Valentine
+742,Black Sabbath
+742,Kendrick Lamar
+742,"Tyler, the Creator"
+743,2pac
+743,Megadeth
+743,My Bloody Valentine
+743,Judas Priest
+744,Iron Maiden
+744,Metallica
+744,George Michael
+745,Madvillain
+745,Radiohead
+746,Bjork
+746,Judas Priest
+746,Radiohead
+746,Scorpions
+747,Kanye West
+747,Queen
+747,Black Sabbath
+747,2pac
+748,Iron Maiden
+748,Metallica
+749,Metallica
+749,Iron Maiden
+750,Madvillain
+750,George Michael
+750,My Bloody Valentine
+751,Bjork
+751,Madvillain
+751,Kendrick Lamar
+751,Janet Jackson
+751,My Bloody Valentine
+751,Radiohead
+752,"Tyler, the Creator"
+752,Kanye West
+752,Kendrick Lamar
+752,George Michael
+752,Deep Purple
+752,Kendrick Lamar
+752,Kendrick Lamar
+753,"Tyler, the Creator"
+754,Radiohead
+754,My Bloody Valentine
+754,Godspeed You Black Emperor!
+754,Kendrick Lamar
+755,Jay-Z
+755,Kanye West
+756,Megadeth
+756,Judas Priest
+756,Kendrick Lamar
+757,Radiohead
+757,Bjork
+757,Led Zeppelin
+757,Black Sabbath
+757,Queen
+757,Bjork
+758,2pac
+758,Kendrick Lamar
+758,Kendrick Lamar
+759,Led Zeppelin
+759,Megadeth
+760,Radiohead
+760,Kendrick Lamar
+760,Madvillain
+760,Megadeth
+760,Iron Maiden
+760,Scorpions
+761,Madonna
+761,Judas Priest
+761,Janet Jackson
+762,Bjork
+762,Led Zeppelin
+762,My Bloody Valentine
+762,Kanye West
+763,Kendrick Lamar
+763,Queen
+764,George Michael
+764,Deep Purple
+764,Madonna
+764,Bjork
+764,Led Zeppelin
+765,Janet Jackson
+765,Iron Maiden
+765,Scorpions
+766,Radiohead
+766,Iron Maiden
+767,Madonna
+768,Metallica
+768,Queen
+768,Motorhead
+768,Judas Priest
+768,Madvillain
+768,2pac
+768,2pac
+769,Radiohead
+770,Queen
+770,Madonna
+771,Led Zeppelin
+772,Kendrick Lamar
+772,Iron Maiden
+773,Radiohead
+773,Iron Maiden
+774,"Tyler, the Creator"
+774,Janet Jackson
+774,Led Zeppelin
+774,My Bloody Valentine
+774,Metallica
+774,Deep Purple
+775,Kanye West
+775,Michael Jackson
+775,Queen
+776,Kendrick Lamar
+777,Metallica
+777,"Tyler, the Creator"
+778,Led Zeppelin
+778,Kanye West
+778,Black Sabbath
+778,Kendrick Lamar
+779,Bjork
+779,Megadeth
+780,Michael Jackson
+781,Queen
+782,Judas Priest
+783,Queen
+783,Deep Purple
+783,Deep Purple
+784,My Bloody Valentine
+784,Michael Jackson
+784,Kanye West
+785,Madonna
+785,Jay-Z
+786,Bjork
+786,Radiohead
+786,Black Sabbath
+786,Kendrick Lamar
+787,Queen
+787,Megadeth
+787,Iron Maiden
+787,Metallica
+788,Kendrick Lamar
+788,Led Zeppelin
+788,2pac
+789,Metallica
+790,Megadeth
+790,Iron Maiden
+791,Kendrick Lamar
+792,Queen
+792,Led Zeppelin
+792,Judas Priest
+792,Madvillain
+792,Led Zeppelin
+792,Led Zeppelin
+792,Kendrick Lamar
+793,Radiohead
+793,Metallica
+794,Madvillain
+794,Bjork
+794,"Tyler, the Creator"
+795,Bjork
+795,Scorpions
+795,Metallica
+795,Radiohead
+795,Madonna
+796,Deep Purple
+796,2pac
+796,Radiohead
+796,Judas Priest
+796,Scorpions
+797,My Bloody Valentine
+798,"Tyler, the Creator"
+798,Kendrick Lamar
+798,Kendrick Lamar
+798,2pac
+798,Megadeth
+798,Jay-Z
+799,Jay-Z
+799,Kendrick Lamar
+799,2pac
+799,"Tyler, the Creator"
+800,Bjork
+800,"Tyler, the Creator"
+801,Kendrick Lamar
+802,Michael Jackson
+802,Black Sabbath
+802,Led Zeppelin
+803,Michael Jackson
+803,Kendrick Lamar
+803,Radiohead
+804,Madvillain
+804,2pac
+804,Iron Maiden
+805,Kendrick Lamar
+805,Kanye West
+805,Iron Maiden
+805,Led Zeppelin
+805,Radiohead
+806,2pac
+806,Michael Jackson
+806,Iron Maiden
+806,Jay-Z
+806,Led Zeppelin
+806,Kendrick Lamar
+806,Metallica
+807,Michael Jackson
+808,Radiohead
+809,Kanye West
+809,Black Sabbath
+809,Queen
+809,Metallica
+809,Kendrick Lamar
+810,Black Sabbath
+810,Radiohead
+810,Scorpions
+811,George Michael
+812,Judas Priest
+812,Kendrick Lamar
+813,Deep Purple
+814,Janet Jackson
+815,2pac
+815,"Tyler, the Creator"
+815,Metallica
+816,Led Zeppelin
+816,Queen
+817,My Bloody Valentine
+817,Bjork
+817,Madvillain
+817,Michael Jackson
+818,Iron Maiden
+818,Metallica
+818,Megadeth
+819,Metallica
+819,Kanye West
+819,Michael Jackson
+819,Michael Jackson
+819,Iron Maiden
+820,My Bloody Valentine
+820,Megadeth
+820,Megadeth
+820,Radiohead
+820,Bjork
+821,Godspeed You Black Emperor!
+821,Michael Jackson
+822,Kanye West
+822,Jay-Z
+822,Black Sabbath
+822,"Tyler, the Creator"
+822,Megadeth
+823,Bjork
+823,Megadeth
+824,Radiohead
+824,Led Zeppelin
+824,Michael Jackson
+824,"Tyler, the Creator"
+825,Judas Priest
+825,Prince
+825,Kanye West
+825,Megadeth
+826,Megadeth
+826,Madonna
+826,Scorpions
+826,Led Zeppelin
+826,Metallica
+827,George Michael
+827,Megadeth
+828,Kanye West
+828,Kendrick Lamar
+828,My Bloody Valentine
+828,2pac
+829,My Bloody Valentine
+829,Madvillain
+829,Madonna
+830,Motorhead
+830,Jay-Z
+831,Kendrick Lamar
+832,Metallica
+832,Megadeth
+832,Motorhead
+833,Led Zeppelin
+833,Deep Purple
+834,Iron Maiden
+835,Madonna
+836,Radiohead
+836,"Tyler, the Creator"
+836,George Michael
+836,Godspeed You Black Emperor!
+836,Kanye West
+836,Black Sabbath
+837,George Michael
+837,Iron Maiden
+837,Led Zeppelin
+838,Bjork
+838,Jay-Z
+839,Judas Priest
+839,Iron Maiden
+840,Jay-Z
+840,"Tyler, the Creator"
+841,Metallica
+842,Madonna
+842,Bjork
+842,Michael Jackson
+842,Queen
+843,Madonna
+844,George Michael
+844,Bjork
+845,Queen
+845,George Michael
+845,Kanye West
+845,"Tyler, the Creator"
+845,Bjork
+846,My Bloody Valentine
+847,My Bloody Valentine
+847,Deep Purple
+848,Radiohead
+848,Scorpions
+848,Deep Purple
+848,Bjork
+848,Madvillain
+848,Deep Purple
+849,Led Zeppelin
+849,Deep Purple
+849,Janet Jackson
+849,Kendrick Lamar
+849,Queen
+849,Motorhead
+850,Michael Jackson
+850,Queen
+850,Janet Jackson
+850,Janet Jackson
+851,Black Sabbath
+851,Queen
+851,Madonna
+852,Michael Jackson
+852,Iron Maiden
+853,Led Zeppelin
+853,Kanye West
+853,Iron Maiden
+853,Queen
+853,Queen
+854,2pac
+855,Janet Jackson
+856,Kendrick Lamar
+856,Metallica
+857,Jay-Z
+858,Led Zeppelin
+859,Megadeth
+860,My Bloody Valentine
+860,Iron Maiden
+860,Madonna
+861,Black Sabbath
+862,Michael Jackson
+863,Iron Maiden
+863,Megadeth
+863,Judas Priest
+863,Metallica
+863,Bjork
+864,Black Sabbath
+865,Radiohead
+865,Bjork
+866,"Tyler, the Creator"
+867,Madonna
+867,"Tyler, the Creator"
+868,My Bloody Valentine
+868,Iron Maiden
+869,Radiohead
+869,Black Sabbath
+869,My Bloody Valentine
+869,Megadeth
+869,2pac
+870,Iron Maiden
+870,Michael Jackson
+871,Black Sabbath
+871,Madonna
+871,Bjork
+871,Iron Maiden
+872,Bjork
+872,Motorhead
+872,Led Zeppelin
+872,Michael Jackson
+872,Godspeed You Black Emperor!
+872,Radiohead
+873,Black Sabbath
+873,"Tyler, the Creator"
+873,Scorpions
+874,Godspeed You Black Emperor!
+874,My Bloody Valentine
+875,Kendrick Lamar
+875,Queen
+875,George Michael
+875,Judas Priest
+875,Michael Jackson
+875,Metallica
+876,Led Zeppelin
+876,2pac
+876,Megadeth
+876,Radiohead
+876,Bjork
+876,"Tyler, the Creator"
+877,Kendrick Lamar
+877,My Bloody Valentine
+878,Megadeth
+878,Judas Priest
+878,Madvillain
+878,Madvillain
+878,Bjork
+879,Madvillain
+880,Bjork
+880,Radiohead
+880,Michael Jackson
+880,Madvillain
+881,Iron Maiden
+881,Madonna
+882,Kendrick Lamar
+882,Madonna
+883,Madonna
+883,Kendrick Lamar
+884,Deep Purple
+884,Iron Maiden
+884,Queen
+884,George Michael
+885,Madonna
+885,Megadeth
+886,Bjork
+886,George Michael
+887,Kendrick Lamar
+887,"Tyler, the Creator"
+888,"Tyler, the Creator"
+888,Kendrick Lamar
+889,Michael Jackson
+889,Iron Maiden
+889,My Bloody Valentine
+889,2pac
+889,Radiohead
+890,Michael Jackson
+890,"Tyler, the Creator"
+890,My Bloody Valentine
+890,Radiohead
+890,George Michael
+890,Iron Maiden
+891,"Tyler, the Creator"
+891,Kanye West
+892,Black Sabbath
+892,"Tyler, the Creator"
+893,Motorhead
+893,Michael Jackson
+893,Judas Priest
+894,Godspeed You Black Emperor!
+894,My Bloody Valentine
+894,"Tyler, the Creator"
+894,Kanye West
+895,Judas Priest
+895,Iron Maiden
+896,Iron Maiden
+896,Metallica
+897,Radiohead
+897,Metallica
+897,Bjork
+898,My Bloody Valentine
+898,Bjork
+899,Led Zeppelin
+900,Motorhead
+901,Madonna
+902,Bjork
+903,Madonna
+904,Madonna
+904,Janet Jackson
+905,Queen
+905,Iron Maiden
+905,Megadeth
+905,Deep Purple
+905,George Michael
+905,Metallica
+906,Queen
+906,Led Zeppelin
+906,"Tyler, the Creator"
+906,Kanye West
+907,Deep Purple
+907,Metallica
+907,Radiohead
+907,Queen
+908,Prince
+909,Michael Jackson
+910,"Tyler, the Creator"
+910,Judas Priest
+910,Kendrick Lamar
+910,Kanye West
+911,Queen
+912,Bjork
+913,Kanye West
+913,Black Sabbath
+913,2pac
+913,"Tyler, the Creator"
+914,Radiohead
+914,My Bloody Valentine
+915,George Michael
+915,Megadeth
+916,Metallica
+916,Madonna
+916,Megadeth
+916,Judas Priest
+916,Iron Maiden
+916,Kendrick Lamar
+917,Iron Maiden
+917,Radiohead
+917,Queen
+917,Megadeth
+917,My Bloody Valentine
+918,Led Zeppelin
+919,Queen
+920,"Tyler, the Creator"
+921,Judas Priest
+921,Kendrick Lamar
+922,Madonna
+923,Judas Priest
+924,Bjork
+924,Metallica
+925,Michael Jackson
+925,2pac
+925,George Michael
+925,Queen
+926,Iron Maiden
+926,Queen
+926,Madonna
+927,Led Zeppelin
+927,Deep Purple
+927,Madvillain
+927,Madonna
+927,Megadeth
+928,Metallica
+928,Motorhead
+929,Deep Purple
+929,Metallica
+930,My Bloody Valentine
+931,Led Zeppelin
+931,Black Sabbath
+931,"Tyler, the Creator"
+931,Black Sabbath
+931,Metallica
+932,Queen
+933,Michael Jackson
+933,Godspeed You Black Emperor!
+934,Prince
+934,Madvillain
+935,Madonna
+935,George Michael
+935,Queen
+935,Michael Jackson
+935,Janet Jackson
+936,Madonna
+936,Michael Jackson
+936,Radiohead
+936,Bjork
+937,Michael Jackson
+937,George Michael
+937,My Bloody Valentine
+937,Iron Maiden
+937,Black Sabbath
+938,Metallica
+938,Megadeth
+939,Madvillain
+940,Madonna
+940,George Michael
+941,Kendrick Lamar
+941,Megadeth
+942,Madonna
+943,Bjork
+943,Judas Priest
+943,"Tyler, the Creator"
+944,Led Zeppelin
+944,My Bloody Valentine
+945,2pac
+945,Black Sabbath
+945,Deep Purple
+946,Kendrick Lamar
+946,Madonna
+947,Madonna
+947,Kendrick Lamar
+948,Megadeth
+948,Metallica
+949,Deep Purple
+949,Bjork
+949,Kendrick Lamar
+950,Scorpions
+950,Michael Jackson
+950,Iron Maiden
+951,Jay-Z
+951,Kanye West
+951,"Tyler, the Creator"
+951,Megadeth
+951,Led Zeppelin
+952,Iron Maiden
+953,Radiohead
+953,Janet Jackson
+954,Kendrick Lamar
+954,Black Sabbath
+954,Kanye West
+955,"Tyler, the Creator"
+955,Led Zeppelin
+955,Prince
+955,Queen
+956,Bjork
+956,Radiohead
+956,Metallica
+956,Iron Maiden
+956,Godspeed You Black Emperor!
+957,Queen
+957,Megadeth
+957,Black Sabbath
+957,Black Sabbath
+958,Megadeth
+959,Radiohead
+959,"Tyler, the Creator"
+959,Bjork
+959,Godspeed You Black Emperor!
+960,George Michael
+961,Led Zeppelin
+961,Kendrick Lamar
+961,My Bloody Valentine
+962,Iron Maiden
+963,Madvillain
+963,My Bloody Valentine
+963,Iron Maiden
+963,Queen
+963,"Tyler, the Creator"
+964,Michael Jackson
+965,Janet Jackson
+965,Madonna
+966,Queen
+966,Metallica
+966,Michael Jackson
+967,Radiohead
+967,Kanye West
+967,My Bloody Valentine
+967,Godspeed You Black Emperor!
+968,Black Sabbath
+969,Black Sabbath
+970,Queen
+971,Queen
+971,Metallica
+972,Kanye West
+972,Scorpions
+972,2pac
+972,Jay-Z
+973,Radiohead
+973,Bjork
+974,Madonna
+975,Radiohead
+975,Judas Priest
+975,George Michael
+975,Bjork
+976,Madonna
+977,Kendrick Lamar
+978,Michael Jackson
+979,Black Sabbath
+979,Queen
+980,Radiohead
+981,Bjork
+981,Michael Jackson
+982,Bjork
+982,Metallica
+983,Radiohead
+983,Godspeed You Black Emperor!
+983,My Bloody Valentine
+984,Queen
+984,Michael Jackson
+984,Radiohead
+985,Queen
+985,Radiohead
+986,Godspeed You Black Emperor!
+986,My Bloody Valentine
+986,Radiohead
+986,Scorpions
+987,Michael Jackson
+987,Kendrick Lamar
+987,Madonna
+988,Judas Priest
+988,Motorhead
+988,Bjork
+988,My Bloody Valentine
+989,Iron Maiden
+989,Janet Jackson
+989,Megadeth
+990,Iron Maiden
+990,Janet Jackson
+991,Radiohead
+991,Deep Purple
+991,2pac
+992,Michael Jackson
+992,Megadeth
+992,Metallica
+992,Radiohead
+992,Bjork
+993,Bjork
+994,Kanye West
+994,2pac
+994,Kendrick Lamar
+994,Kendrick Lamar
+995,Godspeed You Black Emperor!
+995,My Bloody Valentine
+996,Madvillain
+996,Bjork
+996,Michael Jackson
+996,Janet Jackson
+997,Madonna
+997,Judas Priest
+997,Kendrick Lamar
+997,Michael Jackson
+997,Megadeth
+998,Bjork
+998,Madvillain
+998,Queen
+998,Led Zeppelin
+999,Madonna
+1000,Megadeth
+1000,Black Sabbath
+1000,Metallica
+1001,Radiohead
+1001,Judas Priest
+1001,Led Zeppelin
+1001,George Michael
+1001,My Bloody Valentine
+1001,Iron Maiden
+1001,Black Sabbath
+1002,My Bloody Valentine
+1003,"Tyler, the Creator"
+1003,2pac
+1004,Radiohead
+1004,Kanye West
+1004,My Bloody Valentine
+1005,Iron Maiden
+1005,2pac
+1005,"Tyler, the Creator"
+1006,Janet Jackson
+1006,George Michael
+1006,Queen
+1006,George Michael
+1007,Led Zeppelin
+1007,"Tyler, the Creator"
+1007,Judas Priest
+1008,Deep Purple
+1008,Metallica
+1009,Janet Jackson
+1009,Queen
+1010,"Tyler, the Creator"
+1010,Madvillain
+1010,Madonna
+1010,Prince
+1010,Kendrick Lamar
+1011,Judas Priest
+1011,Megadeth
+1011,Iron Maiden
+1011,Kendrick Lamar
+1012,Bjork
+1013,Megadeth
+1013,Iron Maiden
+1013,Judas Priest
+1013,My Bloody Valentine
+1014,Kanye West
+1014,Jay-Z
+1014,Bjork
+1015,Kanye West
+1016,Madonna
+1016,Queen
+1017,Michael Jackson
+1017,Radiohead
+1018,Michael Jackson
+1018,My Bloody Valentine
+1019,Motorhead
+1019,Judas Priest
+1019,Deep Purple
+1020,Kendrick Lamar
+1021,Kendrick Lamar
+1021,2pac
+1021,Black Sabbath
+1021,Bjork
+1021,Michael Jackson
+1021,Queen
+1022,Queen
+1023,Kanye West
+1023,Kendrick Lamar
+1024,Kendrick Lamar
+1024,Metallica
+1025,Queen
+1025,Led Zeppelin
+1026,Led Zeppelin
+1026,"Tyler, the Creator"
+1026,Queen
+1026,Michael Jackson
+1026,Scorpions
+1027,Queen
+1028,Madonna
+1028,Michael Jackson
+1028,Bjork
+1029,Iron Maiden
+1029,Madonna
+1029,Megadeth
+1029,Black Sabbath
+1030,Metallica
+1030,Judas Priest
+1031,"Tyler, the Creator"
+1031,Queen
+1032,Janet Jackson
+1032,Iron Maiden
+1032,Black Sabbath
+1032,Radiohead
+1032,Michael Jackson
+1032,Michael Jackson
+1032,Kanye West
+1033,Megadeth
+1033,Motorhead
+1033,Michael Jackson
+1033,Prince
+1033,Kendrick Lamar
+1034,Iron Maiden
+1034,Queen
+1034,Megadeth
+1034,Madonna
+1035,Kendrick Lamar
+1036,My Bloody Valentine
+1036,Queen
+1036,Janet Jackson
+1037,Kendrick Lamar
+1038,Jay-Z
+1038,Kanye West
+1039,Radiohead
+1039,Black Sabbath
+1040,My Bloody Valentine
+1040,Metallica
+1040,Radiohead
+1040,Madvillain
+1041,Radiohead
+1041,Godspeed You Black Emperor!
+1041,Godspeed You Black Emperor!
+1042,Led Zeppelin
+1043,Metallica
+1043,Michael Jackson
+1043,Kanye West
+1043,"Tyler, the Creator"
+1043,Iron Maiden
+1043,Megadeth
+1043,Radiohead
+1044,Iron Maiden
+1044,My Bloody Valentine
+1044,Judas Priest
+1045,Queen
+1045,Kendrick Lamar
+1045,Black Sabbath
+1046,Metallica
+1047,Queen
+1047,Judas Priest
+1048,Madonna
+1049,Queen
+1049,George Michael
+1050,Kendrick Lamar
+1051,Radiohead
+1051,Scorpions
+1052,Queen
+1052,Scorpions
+1052,My Bloody Valentine
+1052,"Tyler, the Creator"
+1053,2pac
+1053,Queen
+1053,Queen
+1053,Bjork
+1054,My Bloody Valentine
+1054,"Tyler, the Creator"
+1055,Janet Jackson
+1055,Queen
+1055,Metallica
+1056,Megadeth
+1056,Michael Jackson
+1057,Janet Jackson
+1057,"Tyler, the Creator"
+1057,Madonna
+1057,Megadeth
+1057,Bjork
+1058,Radiohead
+1058,Metallica
+1059,"Tyler, the Creator"
+1059,Judas Priest
+1059,Queen
+1059,Kendrick Lamar
+1060,Kendrick Lamar
+1060,My Bloody Valentine
+1060,"Tyler, the Creator"
+1060,Janet Jackson
+1060,"Tyler, the Creator"
+1060,George Michael
+1061,Metallica
+1061,Michael Jackson
+1061,George Michael
+1061,"Tyler, the Creator"
+1061,Motorhead
+1061,Radiohead
+1062,Metallica
+1063,Metallica
+1063,Madonna
+1064,Led Zeppelin
+1064,Judas Priest
+1064,Madonna
+1064,"Tyler, the Creator"
+1065,"Tyler, the Creator"
+1066,Judas Priest
+1067,Queen
+1067,Madvillain
+1068,Jay-Z
+1068,Queen
+1068,Kendrick Lamar
+1068,Madvillain
+1069,My Bloody Valentine
+1070,George Michael
+1070,Michael Jackson
+1071,Madvillain
+1071,Prince
+1071,Bjork
+1072,Prince
+1072,Metallica
+1073,Metallica
+1074,Metallica
+1074,Bjork
+1074,Radiohead
+1074,Jay-Z
+1075,Motorhead
+1075,Judas Priest
+1076,Radiohead
+1076,Kendrick Lamar
+1076,Prince
+1076,"Tyler, the Creator"
+1076,Led Zeppelin
+1077,Michael Jackson
+1077,Black Sabbath
+1077,Megadeth
+1077,Madvillain
+1078,Kendrick Lamar
+1078,Judas Priest
+1078,Black Sabbath
+1079,Bjork
+1080,Metallica
+1081,Scorpions
+1081,Led Zeppelin
+1081,Kanye West
+1081,My Bloody Valentine
+1081,Michael Jackson
+1082,Black Sabbath
+1082,Queen
+1083,Kanye West
+1083,Megadeth
+1083,"Tyler, the Creator"
+1083,Iron Maiden
+1083,Kendrick Lamar
+1084,Radiohead
+1085,Jay-Z
+1085,Michael Jackson
+1085,My Bloody Valentine
+1085,Kendrick Lamar
+1086,Madonna
+1086,Prince
+1086,Michael Jackson
+1086,Janet Jackson
+1087,Iron Maiden
+1088,Prince
+1089,Led Zeppelin
+1089,Bjork
+1090,Kendrick Lamar
+1090,2pac
+1090,Queen
+1090,2pac
+1091,Jay-Z
+1091,Bjork
+1091,Kanye West
+1091,Radiohead
+1091,Kendrick Lamar
+1092,Madonna
+1092,Megadeth
+1093,Kendrick Lamar
+1093,Deep Purple
+1093,Iron Maiden
+1093,Metallica
+1093,2pac
+1093,Kanye West
+1093,Kanye West
+1094,George Michael
+1094,Queen
+1094,Michael Jackson
+1094,Queen
+1094,Led Zeppelin
+1095,My Bloody Valentine
+1095,"Tyler, the Creator"
+1096,Radiohead
+1096,Madvillain
+1097,Iron Maiden
+1097,Metallica
+1097,Led Zeppelin
+1097,Queen
+1098,Queen
+1098,Jay-Z
+1098,Madvillain
+1099,Prince
+1099,Deep Purple
+1099,Michael Jackson
+1099,Kanye West
+1100,Judas Priest
+1100,Queen
+1101,George Michael
+1101,Metallica
+1101,Led Zeppelin
+1101,Janet Jackson
+1101,Janet Jackson
+1101,Led Zeppelin
+1101,Michael Jackson
+1102,Bjork
+1103,Metallica
+1103,Judas Priest
+1103,Megadeth
+1104,Kanye West
+1104,Queen
+1104,Kendrick Lamar
+1104,Iron Maiden
+1105,Iron Maiden
+1106,Kanye West
+1106,Queen
+1107,Michael Jackson
+1107,Kendrick Lamar
+1108,Madonna
+1108,Radiohead
+1108,Michael Jackson
+1108,George Michael
+1109,George Michael
+1109,Radiohead
+1109,Janet Jackson
+1109,Madonna
+1109,Iron Maiden
+1109,Radiohead
+1110,Kendrick Lamar
+1111,Kendrick Lamar
+1111,Kanye West
+1112,Bjork
+1113,Judas Priest
+1114,Queen
+1114,Metallica
+1114,My Bloody Valentine
+1115,Kendrick Lamar
+1115,Iron Maiden
+1115,Black Sabbath
+1115,Judas Priest
+1115,Queen
+1116,Led Zeppelin
+1116,Kendrick Lamar
+1116,Michael Jackson
+1117,Motorhead
+1117,Kanye West
+1118,Kanye West
+1119,George Michael
+1119,Michael Jackson
+1119,Queen
+1119,Bjork
+1119,Iron Maiden
+1120,Bjork
+1120,Godspeed You Black Emperor!
+1121,Black Sabbath
+1121,Iron Maiden
+1121,Madonna
+1121,Michael Jackson
+1121,My Bloody Valentine
+1122,George Michael
+1122,Madonna
+1122,Madvillain
+1122,Michael Jackson
+1122,Led Zeppelin
+1122,Godspeed You Black Emperor!
+1123,Metallica
+1124,Madvillain
+1124,Deep Purple
+1125,Queen
+1125,Led Zeppelin
+1125,"Tyler, the Creator"
+1126,Black Sabbath
+1126,Judas Priest
+1127,Queen
+1127,Scorpions
+1127,Metallica
+1128,Scorpions
+1129,Led Zeppelin
+1129,Radiohead
+1130,Iron Maiden
+1130,Godspeed You Black Emperor!
+1131,My Bloody Valentine
+1131,Radiohead
+1131,Michael Jackson
+1131,Michael Jackson
+1131,Michael Jackson
+1132,Led Zeppelin
+1133,Michael Jackson
+1133,Led Zeppelin
+1134,Black Sabbath
+1135,Metallica
+1135,Led Zeppelin
+1136,Kendrick Lamar
+1137,Michael Jackson
+1137,Radiohead
+1138,Iron Maiden
+1139,Iron Maiden
+1140,Michael Jackson
+1140,Queen
+1140,"Tyler, the Creator"
+1140,Kendrick Lamar
+1141,Michael Jackson
+1141,Kendrick Lamar
+1141,Queen
+1142,Iron Maiden
+1142,2pac
+1142,Megadeth
+1142,Metallica
+1143,Bjork
+1144,Madvillain
+1144,Megadeth
+1145,Bjork
+1145,Madonna
+1145,Kendrick Lamar
+1145,Kanye West
+1145,Radiohead
+1146,George Michael
+1146,Iron Maiden
+1146,Radiohead
+1146,Kendrick Lamar
+1146,My Bloody Valentine
+1147,Michael Jackson
+1147,Madonna
+1147,My Bloody Valentine
+1148,Led Zeppelin
+1148,"Tyler, the Creator"
+1148,Michael Jackson
+1148,"Tyler, the Creator"
+1149,My Bloody Valentine
+1149,Godspeed You Black Emperor!
+1150,My Bloody Valentine
+1150,Janet Jackson
+1151,Michael Jackson
+1151,Radiohead
+1151,George Michael
+1152,Led Zeppelin
+1152,Prince
+1152,Deep Purple
+1152,Deep Purple
+1153,"Tyler, the Creator"
+1153,Judas Priest
+1154,Janet Jackson
+1154,Led Zeppelin
+1155,George Michael
+1155,Janet Jackson
+1155,Prince
+1155,Madonna
+1155,Michael Jackson
+1155,Jay-Z
+1155,Michael Jackson
+1156,Kendrick Lamar
+1156,"Tyler, the Creator"
+1156,Megadeth
+1157,Led Zeppelin
+1157,Deep Purple
+1157,Queen
+1157,Black Sabbath
+1157,Kendrick Lamar
+1157,Deep Purple
+1158,Prince
+1158,Madonna
+1158,George Michael
+1158,Michael Jackson
+1159,Janet Jackson
+1159,Prince
+1159,Madonna
+1160,Madvillain
+1160,Bjork
+1160,Janet Jackson
+1160,Radiohead
+1160,Godspeed You Black Emperor!
+1161,Kendrick Lamar
+1161,"Tyler, the Creator"
+1161,Iron Maiden
+1161,"Tyler, the Creator"
+1161,Queen
+1161,Scorpions
+1162,Michael Jackson
+1162,Deep Purple
+1163,Led Zeppelin
+1163,Janet Jackson
+1164,Bjork
+1164,"Tyler, the Creator"
+1164,"Tyler, the Creator"
+1165,Bjork
+1166,Iron Maiden
+1166,Metallica
+1166,Metallica
+1167,Judas Priest
+1168,Madvillain
+1168,Queen
+1168,Bjork
+1169,Iron Maiden
+1169,Judas Priest
+1169,Madonna
+1169,Michael Jackson
+1170,Kanye West
+1170,"Tyler, the Creator"
+1171,Michael Jackson
+1171,My Bloody Valentine
+1171,Judas Priest
+1172,Kendrick Lamar
+1173,Led Zeppelin
+1173,Black Sabbath
+1174,Kanye West
+1174,George Michael
+1174,Metallica
+1175,Kendrick Lamar
+1175,Led Zeppelin
+1175,Black Sabbath
+1175,Queen
+1176,Led Zeppelin
+1176,Queen
+1177,Metallica
+1178,Deep Purple
+1178,Black Sabbath
+1178,Kanye West
+1178,Queen
+1179,Queen
+1179,Black Sabbath
+1179,Kendrick Lamar
+1179,Janet Jackson
+1179,Iron Maiden
+1180,Godspeed You Black Emperor!
+1180,Queen
+1180,Judas Priest
+1181,Kendrick Lamar
+1181,Megadeth
+1182,Michael Jackson
+1183,Kendrick Lamar
+1183,Radiohead
+1184,Led Zeppelin
+1184,2pac
+1185,Madonna
+1185,Michael Jackson
+1185,Godspeed You Black Emperor!
+1186,Queen
+1186,Megadeth
+1186,Deep Purple
+1186,Black Sabbath
+1186,Michael Jackson
+1186,Bjork
+1187,Megadeth
+1188,Madonna
+1189,Madonna
+1189,Led Zeppelin
+1189,Michael Jackson
+1190,Bjork
+1190,Kendrick Lamar
+1190,Megadeth
+1190,Radiohead
+1190,Deep Purple
+1190,Madvillain
+1191,Queen
+1191,Deep Purple
+1191,Judas Priest
+1191,Madonna
+1192,Judas Priest
+1192,Megadeth
+1193,Michael Jackson
+1193,Madonna
+1194,Godspeed You Black Emperor!
+1195,Janet Jackson
+1195,"Tyler, the Creator"
+1195,Iron Maiden
+1196,Deep Purple
+1196,Scorpions
+1196,Prince
+1196,Madonna
+1196,Godspeed You Black Emperor!
+1197,George Michael
+1197,Kendrick Lamar
+1197,Judas Priest
+1197,Metallica
+1197,Metallica
+1197,Madonna
+1198,Black Sabbath
+1198,Led Zeppelin
+1199,Radiohead
+1199,Madvillain
+1199,Prince
+1199,My Bloody Valentine
+1200,Metallica
+1200,Judas Priest
+1200,Megadeth
+1200,Judas Priest
+1201,My Bloody Valentine
+1202,Radiohead
+1202,Bjork
+1203,Bjork
+1204,Kendrick Lamar
+1205,Megadeth
+1206,Led Zeppelin
+1207,Led Zeppelin
+1207,Madonna
+1207,Judas Priest
+1207,Madonna
+1208,Michael Jackson
+1208,Queen
+1208,Bjork
+1209,Godspeed You Black Emperor!
+1209,Radiohead
+1209,Kendrick Lamar
+1209,Judas Priest
+1209,Janet Jackson
+1209,Radiohead
+1210,My Bloody Valentine
+1210,Radiohead
+1210,Radiohead
+1211,My Bloody Valentine
+1211,Jay-Z
+1211,George Michael
+1212,Madvillain
+1212,Deep Purple
+1212,Megadeth
+1212,Michael Jackson
+1213,Kendrick Lamar
+1213,"Tyler, the Creator"
+1213,My Bloody Valentine
+1213,"Tyler, the Creator"
+1214,2pac
+1215,My Bloody Valentine
+1215,Queen
+1216,My Bloody Valentine
+1216,Megadeth
+1217,"Tyler, the Creator"
+1217,Scorpions
+1217,Kendrick Lamar
+1217,Judas Priest
+1217,Godspeed You Black Emperor!
+1217,My Bloody Valentine
+1218,Bjork
+1218,George Michael
+1219,Michael Jackson
+1220,Black Sabbath
+1220,Megadeth
+1220,Queen
+1220,Queen
+1221,Radiohead
+1221,2pac
+1221,My Bloody Valentine
+1222,Scorpions
+1223,Judas Priest
+1223,My Bloody Valentine
+1223,Black Sabbath
+1223,Queen
+1224,Judas Priest
+1224,2pac
+1225,Judas Priest
+1225,Megadeth
+1225,Black Sabbath
+1226,Metallica
+1227,Kendrick Lamar
+1227,Motorhead
+1227,"Tyler, the Creator"
+1228,Led Zeppelin
+1228,Black Sabbath
+1228,Michael Jackson
+1228,Iron Maiden
+1229,George Michael
+1229,Jay-Z
+1229,My Bloody Valentine
+1229,Queen
+1229,Madvillain
+1230,My Bloody Valentine
+1230,Radiohead
+1231,Iron Maiden
+1231,Led Zeppelin
+1232,Madonna
+1232,Michael Jackson
+1232,Michael Jackson
+1232,Kendrick Lamar
+1232,Kendrick Lamar
+1233,My Bloody Valentine
+1233,"Tyler, the Creator"
+1233,"Tyler, the Creator"
+1234,Megadeth
+1234,Black Sabbath
+1235,Kanye West
+1235,Metallica
+1235,Radiohead
+1236,Scorpions
+1236,Godspeed You Black Emperor!
+1236,Queen
+1236,Queen
+1236,Led Zeppelin
+1236,My Bloody Valentine
+1237,Queen
+1238,Deep Purple
+1238,Scorpions
+1238,Scorpions
+1239,Jay-Z
+1239,"Tyler, the Creator"
+1239,Kendrick Lamar
+1240,Kanye West
+1240,"Tyler, the Creator"
+1241,Kendrick Lamar
+1241,George Michael
+1241,Queen
+1241,Kanye West
+1241,2pac
+1241,Led Zeppelin
+1241,Jay-Z
+1242,Scorpions
+1243,Godspeed You Black Emperor!
+1243,Bjork
+1243,Madvillain
+1243,George Michael
+1243,"Tyler, the Creator"
+1243,Megadeth
+1243,Queen
+1244,Michael Jackson
+1244,Madonna
+1244,"Tyler, the Creator"
+1244,My Bloody Valentine
+1244,Bjork
+1245,Queen
+1245,Kendrick Lamar
+1245,Megadeth
+1245,Deep Purple
+1245,Iron Maiden
+1246,Metallica
+1246,"Tyler, the Creator"
+1246,Judas Priest
+1246,Judas Priest
+1247,Godspeed You Black Emperor!
+1247,Bjork
+1247,Bjork
+1248,Michael Jackson
+1249,Black Sabbath
+1249,George Michael
+1250,Radiohead
+1250,Queen
+1251,"Tyler, the Creator"
+1251,Metallica
+1251,Michael Jackson
+1251,Iron Maiden
+1251,Janet Jackson
+1251,George Michael
+1251,2pac
+1252,Madonna
+1252,Michael Jackson
+1253,Michael Jackson
+1253,Janet Jackson
+1254,Radiohead
+1254,Motorhead
+1254,Bjork
+1254,My Bloody Valentine
+1255,Radiohead
+1255,Madvillain
+1255,Madvillain
+1255,Megadeth
+1255,Godspeed You Black Emperor!
+1255,My Bloody Valentine
+1255,Megadeth
+1256,Black Sabbath
+1256,Led Zeppelin
+1256,Led Zeppelin
+1257,Michael Jackson
+1257,Metallica
+1257,George Michael
+1257,Madonna
+1257,Radiohead
+1257,Madvillain
+1258,Radiohead
+1258,Kendrick Lamar
+1259,George Michael
+1259,Madonna
+1259,Madonna
+1259,Deep Purple
+1259,Queen
+1259,Madonna
+1259,Kanye West
+1260,Megadeth
+1260,Madonna
+1261,"Tyler, the Creator"
+1261,My Bloody Valentine
+1261,Madvillain
+1262,Madonna
+1262,Queen
+1262,Judas Priest
+1263,Madvillain
+1263,Queen
+1263,Megadeth
+1263,"Tyler, the Creator"
+1263,Madonna
+1263,Kendrick Lamar
+1264,Megadeth
+1264,Madonna
+1264,Michael Jackson
+1264,Madonna
+1264,Iron Maiden
+1265,2pac
+1266,Kendrick Lamar
+1266,Iron Maiden
+1267,Radiohead
+1268,Deep Purple
+1268,Queen
+1269,Black Sabbath
+1269,Megadeth
+1270,Queen
+1270,Deep Purple
+1271,"Tyler, the Creator"
+1271,Michael Jackson
+1272,Iron Maiden
+1272,Metallica
+1273,Bjork
+1273,Kendrick Lamar
+1274,Metallica
+1275,Scorpions
+1275,Queen
+1276,Godspeed You Black Emperor!
+1276,2pac
+1276,"Tyler, the Creator"
+1276,"Tyler, the Creator"
+1276,Bjork
+1277,Madonna
+1277,Michael Jackson
+1277,Metallica
+1278,Jay-Z
+1279,Kendrick Lamar
+1279,Queen
+1280,Michael Jackson
+1280,Kendrick Lamar
+1280,Deep Purple
+1281,My Bloody Valentine
+1281,Radiohead
+1281,Bjork
+1282,Madonna
+1282,Metallica
+1283,Judas Priest
+1283,"Tyler, the Creator"
+1283,Janet Jackson
+1283,Kanye West
+1283,Led Zeppelin
+1284,Metallica
+1284,Judas Priest
+1285,Janet Jackson
+1285,George Michael
+1285,Madonna
+1285,Black Sabbath
+1285,2pac
+1285,Iron Maiden
+1286,Metallica
+1286,Prince
+1287,Madonna
+1288,Led Zeppelin
+1288,George Michael
+1288,Judas Priest
+1288,Queen
+1289,2pac
+1289,Bjork
+1290,Metallica
+1291,"Tyler, the Creator"
+1291,Madonna
+1292,Prince
+1292,George Michael
+1292,Michael Jackson
+1293,Led Zeppelin
+1293,Bjork
+1293,Godspeed You Black Emperor!
+1293,Black Sabbath
+1293,Kanye West
+1293,Black Sabbath
+1294,Madonna
+1294,Iron Maiden
+1295,Iron Maiden
+1295,Kendrick Lamar
+1296,Prince
+1296,Janet Jackson
+1297,Black Sabbath
+1298,George Michael
+1298,2pac
+1299,Kendrick Lamar
+1299,Led Zeppelin
+1299,"Tyler, the Creator"
+1299,"Tyler, the Creator"
+1300,Bjork
+1300,Jay-Z
+1300,"Tyler, the Creator"
+1300,Madvillain
+1300,Madonna
+1300,Godspeed You Black Emperor!
+1300,Radiohead
+1301,Madonna
+1302,Bjork
+1302,Prince
+1303,Motorhead
+1304,Bjork
+1304,Michael Jackson
+1304,Queen
+1304,Iron Maiden
+1304,Black Sabbath
+1305,Madvillain
+1305,Motorhead
+1305,Radiohead
+1305,Metallica
+1305,Madonna
+1305,Radiohead
+1306,Iron Maiden
+1306,"Tyler, the Creator"
+1306,Kanye West
+1307,Bjork
+1307,2pac
+1308,Iron Maiden
+1308,Bjork
+1308,Deep Purple
+1309,Scorpions
+1309,Black Sabbath
+1310,Bjork
+1310,Kendrick Lamar
+1310,Madonna
+1310,Janet Jackson
+1311,Led Zeppelin
+1311,Deep Purple
+1312,Queen
+1313,George Michael
+1313,Iron Maiden
+1314,Madvillain
+1315,Janet Jackson
+1315,Madonna
+1315,Michael Jackson
+1315,Megadeth
+1316,Queen
+1316,My Bloody Valentine
+1316,Kendrick Lamar
+1316,George Michael
+1317,My Bloody Valentine
+1317,Bjork
+1317,George Michael
+1317,Madonna
+1318,Queen
+1318,Led Zeppelin
+1319,Led Zeppelin
+1320,Kendrick Lamar
+1320,Metallica
+1320,Metallica
+1320,Megadeth
+1320,Godspeed You Black Emperor!
+1321,Iron Maiden
+1322,My Bloody Valentine
+1322,Kendrick Lamar
+1323,Michael Jackson
+1323,Megadeth
+1324,Motorhead
+1324,Janet Jackson
+1324,Iron Maiden
+1325,Kendrick Lamar
+1325,Madonna
+1325,Bjork
+1325,Megadeth
+1325,Megadeth
+1325,Madonna
+1325,Megadeth
+1326,Queen
+1326,Black Sabbath
+1326,My Bloody Valentine
+1326,Radiohead
+1327,Megadeth
+1327,Led Zeppelin
+1327,Janet Jackson
+1328,Megadeth
+1329,Janet Jackson
+1330,Queen
+1330,Kendrick Lamar
+1330,Kendrick Lamar
+1330,Iron Maiden
+1330,Bjork
+1330,Bjork
+1331,Kendrick Lamar
+1331,Led Zeppelin
+1331,Led Zeppelin
+1331,Led Zeppelin
+1331,Madonna
+1332,"Tyler, the Creator"
+1333,George Michael
+1334,Led Zeppelin
+1334,Janet Jackson
+1335,Scorpions
+1335,Megadeth
+1335,Iron Maiden
+1335,Radiohead
+1336,Bjork
+1337,Judas Priest
+1337,Michael Jackson
+1337,Deep Purple
+1337,Bjork
+1338,Motorhead
+1338,Madonna
+1338,My Bloody Valentine
+1338,Michael Jackson
+1338,Megadeth
+1339,Metallica
+1339,Deep Purple
+1339,Radiohead
+1339,Madonna
+1340,My Bloody Valentine
+1340,2pac
+1341,George Michael
+1341,Godspeed You Black Emperor!
+1341,Megadeth
+1342,Kanye West
+1342,Led Zeppelin
+1342,Jay-Z
+1343,Metallica
+1343,"Tyler, the Creator"
+1343,Kanye West
+1344,Iron Maiden
+1345,George Michael
+1346,Judas Priest
+1346,2pac
+1346,Iron Maiden
+1346,2pac
+1347,Iron Maiden
+1347,Michael Jackson
+1348,2pac
+1348,Kendrick Lamar
+1348,Iron Maiden
+1348,My Bloody Valentine
+1348,"Tyler, the Creator"
+1348,My Bloody Valentine
+1349,Motorhead
+1349,Metallica
+1350,Godspeed You Black Emperor!
+1350,Megadeth
+1351,Queen
+1351,My Bloody Valentine
+1351,Judas Priest
+1351,Led Zeppelin
+1352,Judas Priest
+1352,Metallica
+1352,My Bloody Valentine
+1353,Led Zeppelin
+1353,"Tyler, the Creator"
+1354,Bjork
+1354,Radiohead
+1354,Madonna
+1354,Madvillain
+1355,Michael Jackson
+1355,My Bloody Valentine
+1355,My Bloody Valentine
+1355,Scorpions
+1356,My Bloody Valentine
+1356,Madvillain
+1357,"Tyler, the Creator"
+1358,My Bloody Valentine
+1358,Michael Jackson
+1358,Black Sabbath
+1358,Led Zeppelin
+1358,Deep Purple
+1359,"Tyler, the Creator"
+1359,Kanye West
+1359,Black Sabbath
+1360,My Bloody Valentine
+1360,Madonna
+1360,Bjork
+1360,Led Zeppelin
+1360,Bjork
+1360,Bjork
+1361,Queen
+1362,Madvillain
+1363,Metallica
+1363,Kendrick Lamar
+1363,Queen
+1364,Kendrick Lamar
+1364,Bjork
+1364,Metallica
+1364,Iron Maiden
+1364,2pac
+1364,Michael Jackson
+1365,Madonna
+1366,George Michael
+1366,"Tyler, the Creator"
+1367,Michael Jackson
+1367,Prince
+1368,Megadeth
+1368,Janet Jackson
+1369,Bjork
+1369,Radiohead
+1369,Led Zeppelin
+1369,Madonna
+1370,Led Zeppelin
+1371,Madvillain
+1371,Led Zeppelin
+1372,Bjork
+1372,Kendrick Lamar
+1372,My Bloody Valentine
+1373,Bjork
+1374,2pac
+1374,Kanye West
+1374,Bjork
+1374,Radiohead
+1374,Kanye West
+1375,Black Sabbath
+1375,Bjork
+1376,2pac
+1376,Kendrick Lamar
+1377,Black Sabbath
+1377,My Bloody Valentine
+1378,Madvillain
+1379,Madonna
+1379,Michael Jackson
+1380,Megadeth
+1380,Led Zeppelin
+1381,Led Zeppelin
+1381,"Tyler, the Creator"
+1381,Madonna
+1382,Queen
+1382,"Tyler, the Creator"
+1382,Black Sabbath
+1383,George Michael
+1383,Led Zeppelin
+1384,My Bloody Valentine
+1384,Metallica
+1384,Madvillain
+1385,Janet Jackson
+1385,Madonna
+1385,George Michael
+1385,Michael Jackson
+1385,Radiohead
+1385,Kendrick Lamar
+1386,Bjork
+1386,Radiohead
+1386,Queen
+1386,Kendrick Lamar
+1386,My Bloody Valentine
+1386,Kendrick Lamar
+1386,Radiohead
+1387,My Bloody Valentine
+1387,Judas Priest
+1387,Michael Jackson
+1387,Iron Maiden
+1387,Bjork
+1387,Bjork
+1387,Radiohead
+1388,Black Sabbath
+1388,Queen
+1388,Metallica
+1388,Madonna
+1389,Kendrick Lamar
+1389,2pac
+1390,My Bloody Valentine
+1391,George Michael
+1391,Scorpions
+1391,Iron Maiden
+1391,Madonna
+1391,Bjork
+1392,Megadeth
+1392,Madonna
+1392,Metallica
+1392,Metallica
+1393,Deep Purple
+1393,Radiohead
+1394,Janet Jackson
+1394,George Michael
+1394,Michael Jackson
+1394,Madonna
+1395,Deep Purple
+1395,Madvillain
+1396,Jay-Z
+1396,Black Sabbath
+1397,Radiohead
+1397,Led Zeppelin
+1397,Godspeed You Black Emperor!
+1397,Prince
+1397,Scorpions
+1398,Radiohead
+1399,Metallica
+1399,Iron Maiden
+1400,Judas Priest
+1400,Motorhead
+1401,Iron Maiden
+1402,Radiohead
+1402,Janet Jackson
+1402,Godspeed You Black Emperor!
+1402,Led Zeppelin
+1402,Bjork
+1402,Queen
+1403,2pac
+1403,Kanye West
+1403,Kendrick Lamar
+1403,Black Sabbath
+1403,Kanye West
+1404,Metallica
+1404,My Bloody Valentine
+1404,Radiohead
+1404,Radiohead
+1404,Michael Jackson
+1405,Queen
+1405,My Bloody Valentine
+1405,Black Sabbath
+1406,My Bloody Valentine
+1407,Black Sabbath
+1407,Motorhead
+1407,Godspeed You Black Emperor!
+1407,Iron Maiden
+1408,George Michael
+1408,Madonna
+1408,My Bloody Valentine
+1408,Queen
+1408,"Tyler, the Creator"
+1409,Radiohead
+1409,Led Zeppelin
+1409,2pac
+1409,Led Zeppelin
+1410,Judas Priest
+1410,George Michael
+1411,Metallica
+1411,Radiohead
+1411,Iron Maiden
+1412,Godspeed You Black Emperor!
+1412,Madonna
+1413,George Michael
+1413,Kendrick Lamar
+1413,Iron Maiden
+1414,Kendrick Lamar
+1414,Metallica
+1414,Jay-Z
+1414,George Michael
+1414,Jay-Z
+1414,Metallica
+1414,Kanye West
+1415,Radiohead
+1415,Kendrick Lamar
+1416,Madvillain
+1416,Godspeed You Black Emperor!
+1416,George Michael
+1416,Kendrick Lamar
+1417,Kendrick Lamar
+1417,Bjork
+1418,Madonna
+1418,Bjork
+1418,Bjork
+1419,Led Zeppelin
+1419,Jay-Z
+1419,Madvillain
+1420,Kanye West
+1420,Michael Jackson
+1421,Kendrick Lamar
+1421,Queen
+1421,Motorhead
+1422,Madonna
+1422,2pac
+1422,"Tyler, the Creator"
+1422,Led Zeppelin
+1423,Godspeed You Black Emperor!
+1423,Madvillain
+1423,My Bloody Valentine
+1423,Radiohead
+1423,Black Sabbath
+1424,Madvillain
+1425,"Tyler, the Creator"
+1425,Prince
+1425,Black Sabbath
+1425,Queen
+1425,My Bloody Valentine
+1425,Kendrick Lamar
+1426,Deep Purple
+1427,Michael Jackson
+1427,Kendrick Lamar
+1427,2pac
+1427,Janet Jackson
+1427,Queen
+1427,Bjork
+1428,2pac
+1429,Jay-Z
+1429,Metallica
+1429,Metallica
+1429,Iron Maiden
+1429,Black Sabbath
+1430,Megadeth
+1430,Metallica
+1431,Bjork
+1431,My Bloody Valentine
+1431,My Bloody Valentine
+1432,George Michael
+1433,Deep Purple
+1433,Led Zeppelin
+1433,Megadeth
+1434,Radiohead
+1434,Kendrick Lamar
+1434,Judas Priest
+1434,My Bloody Valentine
+1434,Godspeed You Black Emperor!
+1435,Led Zeppelin
+1436,Bjork
+1436,Iron Maiden
+1436,Janet Jackson
+1436,Iron Maiden
+1436,My Bloody Valentine
+1436,George Michael
+1437,Bjork
+1437,Led Zeppelin
+1437,My Bloody Valentine
+1437,Radiohead
+1438,Prince
+1438,Metallica
+1439,Michael Jackson
+1440,Metallica
+1441,Iron Maiden
+1442,Bjork
+1442,Metallica
+1443,My Bloody Valentine
+1443,Judas Priest
+1444,Megadeth
+1444,Godspeed You Black Emperor!
+1445,Kendrick Lamar
+1446,Michael Jackson
+1446,Black Sabbath
+1446,Led Zeppelin
+1446,George Michael
+1447,Godspeed You Black Emperor!
+1447,Madonna
+1447,Kanye West
+1448,"Tyler, the Creator"
+1448,Radiohead
+1449,Jay-Z
+1449,Bjork
+1450,Michael Jackson
+1451,Kanye West
+1451,Metallica
+1452,Metallica
+1452,Radiohead
+1453,Michael Jackson
+1454,Scorpions
+1454,Led Zeppelin
+1455,Judas Priest
+1456,Michael Jackson
+1456,Madvillain
+1457,Bjork
+1457,Madvillain
+1457,Kendrick Lamar
+1458,George Michael
+1458,Led Zeppelin
+1459,Kanye West
+1459,Black Sabbath
+1459,Kendrick Lamar
+1459,Kendrick Lamar
+1459,Deep Purple
+1459,Jay-Z
+1460,Michael Jackson
+1461,Kendrick Lamar
+1462,Metallica
+1463,Madonna
+1463,Bjork
+1464,Radiohead
+1465,"Tyler, the Creator"
+1466,Radiohead
+1466,Kanye West
+1466,Black Sabbath
+1467,Led Zeppelin
+1467,My Bloody Valentine
+1468,Kendrick Lamar
+1468,Black Sabbath
+1469,Motorhead
+1469,Scorpions
+1469,Led Zeppelin
+1469,"Tyler, the Creator"
+1469,Metallica
+1470,Judas Priest
+1470,Michael Jackson
+1471,My Bloody Valentine
+1471,Radiohead
+1472,Iron Maiden
+1472,My Bloody Valentine
+1473,Queen
+1474,My Bloody Valentine
+1475,Michael Jackson
+1475,Judas Priest
+1475,Janet Jackson
+1475,Janet Jackson
+1475,My Bloody Valentine
+1476,Megadeth
+1476,Metallica
+1476,Motorhead
+1476,Radiohead
+1476,Metallica
+1477,"Tyler, the Creator"
+1477,Bjork
+1477,Megadeth
+1477,Kendrick Lamar
+1478,Madvillain
+1478,Megadeth
+1479,Black Sabbath
+1479,Madonna
+1479,Led Zeppelin
+1479,Kanye West
+1480,Kendrick Lamar
+1480,Judas Priest
+1480,Michael Jackson
+1480,Metallica
+1481,Radiohead
+1481,Janet Jackson
+1481,Madvillain
+1481,Madvillain
+1482,Kanye West
+1483,"Tyler, the Creator"
+1484,Led Zeppelin
+1484,Black Sabbath
+1485,Megadeth
+1485,Madonna
+1485,Kendrick Lamar
+1485,Madvillain
+1486,Radiohead
+1486,Iron Maiden
+1486,Motorhead
+1486,Janet Jackson
+1487,Kanye West
+1487,Queen
+1487,"Tyler, the Creator"
+1487,Led Zeppelin
+1488,Radiohead
+1489,Janet Jackson
+1489,George Michael
+1489,Michael Jackson
+1489,Jay-Z
+1490,Black Sabbath
+1490,Iron Maiden
+1491,"Tyler, the Creator"
+1492,Kendrick Lamar
+1492,"Tyler, the Creator"
+1493,Iron Maiden
+1493,Radiohead
+1494,Radiohead
+1495,My Bloody Valentine
+1495,Michael Jackson
+1495,Bjork
+1496,Deep Purple
+1496,My Bloody Valentine
+1497,Janet Jackson
+1498,Metallica
+1498,George Michael
+1499,Madonna
+1499,Michael Jackson
+1500,Led Zeppelin
+1500,Queen
+1500,Queen
+1500,Queen
+1501,Kendrick Lamar
+1501,Radiohead
+1502,Kendrick Lamar
+1502,Radiohead
+1502,Queen
+1502,Queen
+1503,Metallica
+1503,Iron Maiden
+1503,Black Sabbath
+1503,Bjork
+1503,Black Sabbath
+1504,"Tyler, the Creator"
+1504,Queen
+1504,Madonna
+1504,Radiohead
+1504,Janet Jackson
+1505,Deep Purple
+1505,Queen
+1506,Bjork
+1506,Godspeed You Black Emperor!
+1506,Megadeth
+1506,Queen
+1506,Radiohead
+1507,Motorhead
+1507,Radiohead
+1507,Metallica
+1507,George Michael
+1507,Megadeth
+1508,Scorpions
+1509,Iron Maiden
+1509,Michael Jackson
+1509,Megadeth
+1510,Metallica
+1511,Black Sabbath
+1511,Queen
+1511,Queen
+1511,Kendrick Lamar
+1512,Motorhead
+1512,Metallica
+1512,Led Zeppelin
+1512,Janet Jackson
+1513,Kendrick Lamar
+1513,My Bloody Valentine
+1514,Kendrick Lamar
+1514,Michael Jackson
+1514,"Tyler, the Creator"
+1515,George Michael
+1515,Madonna
+1515,Michael Jackson
+1515,Madonna
+1515,Michael Jackson
+1516,Metallica
+1516,Kanye West
+1517,Iron Maiden
+1518,Bjork
+1519,Michael Jackson
+1519,Radiohead
+1520,Megadeth
+1520,Bjork
+1520,Black Sabbath
+1521,Radiohead
+1521,"Tyler, the Creator"
+1521,Scorpions
+1521,Bjork
+1521,Led Zeppelin
+1521,"Tyler, the Creator"
+1521,Iron Maiden
+1522,Kanye West
+1523,Godspeed You Black Emperor!
+1523,Radiohead
+1524,Madonna
+1524,"Tyler, the Creator"
+1524,Iron Maiden
+1524,My Bloody Valentine
+1525,Queen
+1525,Michael Jackson
+1525,Kanye West
+1525,Bjork
+1526,Michael Jackson
+1526,Megadeth
+1527,Led Zeppelin
+1528,Radiohead
+1528,Led Zeppelin
+1528,Judas Priest
+1528,Michael Jackson
+1529,Metallica
+1530,Led Zeppelin
+1530,Iron Maiden
+1531,Bjork
+1531,Radiohead
+1531,Radiohead
+1532,Jay-Z
+1532,Metallica
+1533,"Tyler, the Creator"
+1534,Megadeth
+1534,Madonna
+1534,Metallica
+1534,Jay-Z
+1535,Janet Jackson
+1535,Metallica
+1536,Kendrick Lamar
+1537,George Michael
+1537,Madonna
+1538,Jay-Z
+1538,Kanye West
+1539,Queen
+1539,Madonna
+1539,Judas Priest
+1540,Bjork
+1540,Madonna
+1540,Madonna
+1540,Radiohead
+1540,Madonna
+1540,Motorhead
+1540,Godspeed You Black Emperor!
+1541,Madonna
+1541,Iron Maiden
+1541,Bjork
+1541,Iron Maiden
+1541,Michael Jackson
+1541,Janet Jackson
+1542,Kendrick Lamar
+1542,Queen
+1542,Michael Jackson
+1542,"Tyler, the Creator"
+1543,Iron Maiden
+1543,Metallica
+1543,Kendrick Lamar
+1543,Black Sabbath
+1544,Queen
+1544,Kendrick Lamar
+1545,Kanye West
+1545,Bjork
+1546,Scorpions
+1546,Megadeth
+1546,Deep Purple
+1546,Queen
+1546,Led Zeppelin
+1547,"Tyler, the Creator"
+1547,Kendrick Lamar
+1547,Michael Jackson
+1547,Megadeth
+1548,Michael Jackson
+1548,Motorhead
+1549,Madvillain
+1549,Radiohead
+1549,Jay-Z
+1549,George Michael
+1550,My Bloody Valentine
+1550,Kendrick Lamar
+1551,Judas Priest
+1551,Iron Maiden
+1551,Michael Jackson
+1551,Metallica
+1551,Iron Maiden
+1551,Deep Purple
+1552,George Michael
+1552,Kanye West
+1552,Iron Maiden
+1553,Deep Purple
+1553,Queen
+1553,Kanye West
+1553,Iron Maiden
+1553,Black Sabbath
+1553,Jay-Z
+1554,Motorhead
+1554,Metallica
+1555,Deep Purple
+1556,Radiohead
+1556,Madvillain
+1556,"Tyler, the Creator"
+1556,Iron Maiden
+1556,Madvillain
+1557,Madvillain
+1557,Bjork
+1557,Iron Maiden
+1557,My Bloody Valentine
+1558,"Tyler, the Creator"
+1558,Kendrick Lamar
+1558,Janet Jackson
+1558,Kanye West
+1559,Michael Jackson
+1560,Michael Jackson
+1560,Godspeed You Black Emperor!
+1560,Janet Jackson
+1560,George Michael
+1560,Kanye West
+1560,Radiohead
+1561,Led Zeppelin
+1562,Michael Jackson
+1562,Kanye West
+1563,My Bloody Valentine
+1563,Radiohead
+1563,Motorhead
+1563,Metallica
+1563,"Tyler, the Creator"
+1564,Janet Jackson
+1565,Godspeed You Black Emperor!
+1566,Megadeth
+1566,Kanye West
+1566,Judas Priest
+1567,Led Zeppelin
+1567,Megadeth
+1567,My Bloody Valentine
+1567,Motorhead
+1567,Black Sabbath
+1567,Scorpions
+1568,Deep Purple
+1568,Michael Jackson
+1568,Kendrick Lamar
+1568,Michael Jackson
+1569,Radiohead
+1569,Bjork
+1569,Deep Purple
+1570,Radiohead
+1570,Godspeed You Black Emperor!
+1570,Metallica
+1571,Madvillain
+1571,Bjork
+1571,Michael Jackson
+1571,Led Zeppelin
+1571,Metallica
+1571,Kendrick Lamar
+1572,Motorhead
+1572,Queen
+1572,Led Zeppelin
+1572,Megadeth
+1573,Kendrick Lamar
+1573,Megadeth
+1574,Metallica
+1575,Queen
+1575,2pac
+1575,My Bloody Valentine
+1575,Black Sabbath
+1575,Kanye West
+1575,Janet Jackson
+1575,Black Sabbath
+1576,Led Zeppelin
+1576,Judas Priest
+1576,Michael Jackson
+1576,Black Sabbath
+1576,Queen
+1577,Kendrick Lamar
+1577,Metallica
+1577,Metallica
+1578,Led Zeppelin
+1578,Black Sabbath
+1578,"Tyler, the Creator"
+1579,Michael Jackson
+1580,Radiohead
+1580,My Bloody Valentine
+1581,"Tyler, the Creator"
+1581,Bjork
+1582,Madvillain
+1582,Madonna
+1583,Metallica
+1583,George Michael
+1583,Judas Priest
+1584,Radiohead
+1584,Bjork
+1585,Kanye West
+1585,Black Sabbath
+1586,"Tyler, the Creator"
+1586,Iron Maiden
+1586,Led Zeppelin
+1587,Michael Jackson
+1587,Madonna
+1587,"Tyler, the Creator"
+1587,Radiohead
+1588,Kendrick Lamar
+1589,Queen
+1589,Bjork
+1589,"Tyler, the Creator"
+1589,Black Sabbath
+1589,Metallica
+1590,Iron Maiden
+1590,Metallica
+1590,Metallica
+1591,Bjork
+1591,Scorpions
+1591,Radiohead
+1591,Radiohead
+1592,My Bloody Valentine
+1593,Iron Maiden
+1594,Metallica
+1594,Madvillain
+1595,Bjork
+1595,Megadeth
+1595,My Bloody Valentine
+1595,Radiohead
+1595,Black Sabbath
+1595,Radiohead
+1595,Led Zeppelin
+1596,Judas Priest
+1596,Jay-Z
+1597,Iron Maiden
+1597,Deep Purple
+1597,Madonna
+1597,Metallica
+1597,Metallica
+1597,Megadeth
+1598,Janet Jackson
+1598,Michael Jackson
+1598,Michael Jackson
+1598,"Tyler, the Creator"
+1598,Kanye West
+1598,Madonna
+1598,Kendrick Lamar
+1599,Megadeth
+1600,Janet Jackson
+1600,Michael Jackson
+1601,My Bloody Valentine
+1601,Madvillain
+1601,Prince
+1601,Godspeed You Black Emperor!
+1601,Bjork
+1602,Kanye West
+1602,Led Zeppelin
+1603,2pac
+1604,Madonna
+1604,George Michael
+1605,George Michael
+1605,Madonna
+1605,Bjork
+1605,Michael Jackson
+1606,Megadeth
+1606,Led Zeppelin
+1607,Metallica
+1607,Madonna
+1607,"Tyler, the Creator"
+1608,Radiohead
+1609,Bjork
+1609,Madonna
+1609,Prince
+1610,Madonna
+1611,Kendrick Lamar
+1611,Radiohead
+1612,Scorpions
+1613,Radiohead
+1613,My Bloody Valentine
+1613,Janet Jackson
+1613,Bjork
+1614,Janet Jackson
+1614,Jay-Z
+1614,2pac
+1615,Metallica
+1615,Queen
+1615,Megadeth
+1615,Janet Jackson
+1616,Bjork
+1616,Queen
+1616,Metallica
+1617,Judas Priest
+1618,Metallica
+1618,Prince
+1618,Godspeed You Black Emperor!
+1619,Kendrick Lamar
+1619,Radiohead
+1620,Black Sabbath
+1621,Michael Jackson
+1621,Iron Maiden
+1622,George Michael
+1623,Black Sabbath
+1623,Led Zeppelin
+1623,Led Zeppelin
+1624,Led Zeppelin
+1624,Queen
+1625,Black Sabbath
+1626,"Tyler, the Creator"
+1627,Janet Jackson
+1627,Black Sabbath
+1628,My Bloody Valentine
+1628,Radiohead
+1628,Madvillain
+1628,Kanye West
+1628,Bjork
+1628,Led Zeppelin
+1629,2pac
+1629,Kendrick Lamar
+1630,Madvillain
+1630,Radiohead
+1630,Madonna
+1630,Kanye West
+1630,2pac
+1631,Radiohead
+1631,Madvillain
+1631,Janet Jackson
+1631,Michael Jackson
+1631,Michael Jackson
+1631,Bjork
+1632,Metallica
+1632,Judas Priest
+1632,Godspeed You Black Emperor!
+1633,"Tyler, the Creator"
+1633,Queen
+1634,Megadeth
+1634,Kanye West
+1634,Queen
+1634,Madonna
+1634,Bjork
+1634,Metallica
+1635,Madvillain
+1636,Metallica
+1637,Metallica
+1637,George Michael
+1637,George Michael
+1637,Iron Maiden
+1637,My Bloody Valentine
+1638,Michael Jackson
+1638,Janet Jackson
+1639,Kendrick Lamar
+1639,My Bloody Valentine
+1639,Radiohead
+1640,Radiohead
+1640,Kanye West
+1640,Led Zeppelin
+1641,George Michael
+1641,Madonna
+1641,Kanye West
+1641,Metallica
+1642,Kanye West
+1642,Iron Maiden
+1642,Michael Jackson
+1643,My Bloody Valentine
+1643,Kendrick Lamar
+1643,Kanye West
+1644,Led Zeppelin
+1645,Led Zeppelin
+1645,Radiohead
+1645,Black Sabbath
+1645,Bjork
+1645,Michael Jackson
+1645,Megadeth
+1646,Bjork
+1646,My Bloody Valentine
+1647,Metallica
+1647,"Tyler, the Creator"
+1647,Megadeth
+1647,Prince
+1647,Led Zeppelin
+1648,Judas Priest
+1648,Kendrick Lamar
+1649,Radiohead
+1650,"Tyler, the Creator"
+1650,Kanye West
+1651,Kanye West
+1651,Judas Priest
+1652,Black Sabbath
+1652,"Tyler, the Creator"
+1652,Led Zeppelin
+1652,Led Zeppelin
+1652,George Michael
+1652,Madonna
+1653,Iron Maiden
+1653,Madvillain
+1654,Madvillain
+1654,My Bloody Valentine
+1654,Radiohead
+1655,Michael Jackson
+1656,Bjork
+1656,Madonna
+1657,Kendrick Lamar
+1657,Jay-Z
+1657,Michael Jackson
+1657,Michael Jackson
+1657,Janet Jackson
+1657,Motorhead
+1658,Godspeed You Black Emperor!
+1659,Bjork
+1660,Radiohead
+1660,Bjork
+1660,Madvillain
+1661,Led Zeppelin
+1661,Queen
+1662,George Michael
+1662,Metallica
+1662,Janet Jackson
+1663,Queen
+1663,Black Sabbath
+1663,Radiohead
+1664,My Bloody Valentine
+1664,George Michael
+1664,Bjork
+1664,Judas Priest
+1665,"Tyler, the Creator"
+1665,2pac
+1666,Radiohead
+1666,Bjork
+1667,Kendrick Lamar
+1667,Judas Priest
+1668,George Michael
+1668,Bjork
+1669,Michael Jackson
+1669,2pac
+1669,Madonna
+1670,Queen
+1670,Radiohead
+1670,George Michael
+1670,Jay-Z
+1670,Deep Purple
+1671,Kanye West
+1671,Deep Purple
+1672,Scorpions
+1673,Black Sabbath
+1673,Metallica
+1673,Motorhead
+1673,Led Zeppelin
+1673,Kendrick Lamar
+1674,Queen
+1674,Led Zeppelin
+1674,Metallica
+1675,Radiohead
+1675,Madvillain
+1676,Kendrick Lamar
+1677,Queen
+1678,Queen
+1678,Kanye West
+1678,Metallica
+1678,Kendrick Lamar
+1679,Michael Jackson
+1679,Scorpions
+1679,Megadeth
+1679,Jay-Z
+1680,Iron Maiden
+1680,Kendrick Lamar
+1681,Black Sabbath
+1681,Judas Priest
+1681,Queen
+1681,Kendrick Lamar
+1682,Metallica
+1682,Megadeth
+1682,My Bloody Valentine
+1682,Janet Jackson
+1682,Judas Priest
+1682,Megadeth
+1683,Jay-Z
+1683,Led Zeppelin
+1683,"Tyler, the Creator"
+1683,"Tyler, the Creator"
+1684,Metallica
+1684,2pac
+1685,Kanye West
+1685,Black Sabbath
+1685,Madonna
+1685,Judas Priest
+1686,Bjork
+1686,Deep Purple
+1686,Radiohead
+1686,My Bloody Valentine
+1687,Queen
+1687,Iron Maiden
+1688,Black Sabbath
+1688,Madonna
+1688,My Bloody Valentine
+1689,Kanye West
+1689,Madonna
+1689,Prince
+1689,Michael Jackson
+1690,Madvillain
+1690,Radiohead
+1691,Judas Priest
+1691,George Michael
+1691,Prince
+1691,Metallica
+1692,Motorhead
+1692,Judas Priest
+1692,Metallica
+1692,Bjork
+1692,Megadeth
+1692,Led Zeppelin
+1693,Jay-Z
+1694,Iron Maiden
+1694,Michael Jackson
+1694,Megadeth
+1695,Michael Jackson
+1695,Madonna
+1695,Iron Maiden
+1695,Black Sabbath
+1695,Prince
+1695,Led Zeppelin
+1696,Led Zeppelin
+1696,Bjork
+1696,Black Sabbath
+1697,Led Zeppelin
+1697,Kendrick Lamar
+1698,Bjork
+1698,Radiohead
+1698,George Michael
+1698,Madonna
+1698,Madonna
+1699,Kendrick Lamar
+1699,Godspeed You Black Emperor!
+1699,"Tyler, the Creator"
+1699,Black Sabbath
+1699,"Tyler, the Creator"
+1700,Iron Maiden
+1700,Judas Priest
+1700,Bjork
+1700,Black Sabbath
+1700,Michael Jackson
+1701,Radiohead
+1702,My Bloody Valentine
+1703,Led Zeppelin
+1703,Iron Maiden
+1704,Megadeth
+1704,Madonna
+1704,Judas Priest
+1704,Black Sabbath
+1704,Michael Jackson
+1705,Prince
+1706,Iron Maiden
+1706,"Tyler, the Creator"
+1707,Prince
+1707,Kendrick Lamar
+1707,Kanye West
+1707,Motorhead
+1707,Kendrick Lamar
+1708,Black Sabbath
+1709,Kendrick Lamar
+1709,Queen
+1710,Madvillain
+1710,George Michael
+1711,Iron Maiden
+1711,Metallica
+1711,"Tyler, the Creator"
+1712,Madonna
+1712,Janet Jackson
+1712,Metallica
+1712,Iron Maiden
+1713,Metallica
+1713,Megadeth
+1713,Iron Maiden
+1713,Queen
+1714,Bjork
+1715,Led Zeppelin
+1716,Radiohead
+1716,Queen
+1716,Iron Maiden
+1716,Bjork
+1716,Bjork
+1717,Michael Jackson
+1717,Metallica
+1717,Metallica
+1717,My Bloody Valentine
+1717,Madonna
+1717,Radiohead
+1717,Metallica
+1718,Kanye West
+1719,Michael Jackson
+1719,Queen
+1719,Kendrick Lamar
+1720,Madonna
+1721,My Bloody Valentine
+1721,Bjork
+1721,Bjork
+1721,Kendrick Lamar
+1722,Metallica
+1722,Motorhead
+1722,Megadeth
+1722,Iron Maiden
+1722,Jay-Z
+1723,George Michael
+1723,"Tyler, the Creator"
+1723,Madonna
+1724,Michael Jackson
+1724,George Michael
+1725,George Michael
+1725,Iron Maiden
+1725,Metallica
+1725,Madonna
+1726,Led Zeppelin
+1726,Kendrick Lamar
+1727,Scorpions
+1727,Madonna
+1727,Kanye West
+1727,Metallica
+1727,Led Zeppelin
+1727,George Michael
+1728,Metallica
+1728,2pac
+1729,Led Zeppelin
+1730,Jay-Z
+1730,Michael Jackson
+1731,Queen
+1732,Metallica
+1732,Black Sabbath
+1733,2pac
+1733,Metallica
+1733,Radiohead
+1733,"Tyler, the Creator"
+1734,"Tyler, the Creator"
+1734,Kanye West
+1734,Janet Jackson
+1734,Judas Priest
+1734,Kanye West
+1734,Iron Maiden
+1734,Janet Jackson
+1735,Michael Jackson
+1736,Bjork
+1736,George Michael
+1736,Iron Maiden
+1737,"Tyler, the Creator"
+1737,My Bloody Valentine
+1738,Kendrick Lamar
+1738,Radiohead
+1738,Kanye West
+1738,Prince
+1739,My Bloody Valentine
+1739,Kendrick Lamar
+1739,Queen
+1739,Michael Jackson
+1739,Michael Jackson
+1740,Led Zeppelin
+1740,Iron Maiden
+1740,Janet Jackson
+1740,Madonna
+1740,Iron Maiden
+1741,Radiohead
+1742,Prince
+1742,Led Zeppelin
+1743,Led Zeppelin
+1743,Iron Maiden
+1743,Queen
+1743,Judas Priest
+1743,Black Sabbath
+1743,Iron Maiden
+1744,Iron Maiden
+1745,"Tyler, the Creator"
+1745,My Bloody Valentine
+1746,Kendrick Lamar
+1747,Kendrick Lamar
+1748,Judas Priest
+1749,Kanye West
+1749,Kendrick Lamar
+1749,Michael Jackson
+1750,George Michael
+1750,Radiohead
+1750,Madvillain
+1750,Bjork
+1750,Iron Maiden
+1751,Metallica
+1751,Radiohead
+1751,Megadeth
+1752,Megadeth
+1752,Metallica
+1752,2pac
+1752,Queen
+1752,Queen
+1753,Queen
+1753,Kanye West
+1753,Madvillain
+1753,George Michael
+1753,Jay-Z
+1753,Led Zeppelin
+1754,Madonna
+1754,Metallica
+1754,Jay-Z
+1754,My Bloody Valentine
+1754,Janet Jackson
+1754,Metallica
+1754,Michael Jackson
+1755,2pac
+1756,Michael Jackson
+1756,Madonna
+1757,Deep Purple
+1757,Queen
+1757,My Bloody Valentine
+1757,Led Zeppelin
+1757,My Bloody Valentine
+1757,Michael Jackson
+1758,Led Zeppelin
+1758,Iron Maiden
+1758,Michael Jackson
+1758,Metallica
+1759,Metallica
+1759,Megadeth
+1759,Iron Maiden
+1759,Black Sabbath
+1759,Madonna
+1759,Iron Maiden
+1760,Scorpions
+1760,Led Zeppelin
+1760,Queen
+1760,Led Zeppelin
+1761,My Bloody Valentine
+1761,2pac
+1762,"Tyler, the Creator"
+1763,"Tyler, the Creator"
+1763,Led Zeppelin
+1763,Prince
+1763,Radiohead
+1763,Madvillain
+1763,Kanye West
+1764,Iron Maiden
+1764,Radiohead
+1765,Metallica
+1765,Kendrick Lamar
+1765,Madvillain
+1765,Judas Priest
+1766,George Michael
+1766,Janet Jackson
+1767,Godspeed You Black Emperor!
+1767,Radiohead
+1767,Radiohead
+1768,Radiohead
+1768,Metallica
+1769,Madvillain
+1769,Bjork
+1769,Radiohead
+1769,Kendrick Lamar
+1770,Jay-Z
+1770,Kanye West
+1771,Metallica
+1771,Black Sabbath
+1771,Kendrick Lamar
+1771,Judas Priest
+1772,Kendrick Lamar
+1773,Deep Purple
+1773,Black Sabbath
+1774,George Michael
+1774,Michael Jackson
+1774,Michael Jackson
+1774,Madonna
+1774,Michael Jackson
+1775,Deep Purple
+1775,Queen
+1776,Kanye West
+1776,Michael Jackson
+1776,Megadeth
+1776,Metallica
+1777,Megadeth
+1777,Kendrick Lamar
+1778,Bjork
+1779,My Bloody Valentine
+1779,Scorpions
+1779,Radiohead
+1779,Judas Priest
+1780,Jay-Z
+1780,"Tyler, the Creator"
+1781,Michael Jackson
+1781,Iron Maiden
+1781,Led Zeppelin
+1781,Scorpions
+1782,Kendrick Lamar
+1782,"Tyler, the Creator"
+1783,"Tyler, the Creator"
+1783,Kanye West
+1784,Radiohead
+1784,Michael Jackson
+1785,Queen
+1785,Michael Jackson
+1785,Madonna
+1785,Kendrick Lamar
+1785,Judas Priest
+1786,Metallica
+1786,Kendrick Lamar
+1786,George Michael
+1787,Judas Priest
+1787,Metallica
+1787,Megadeth
+1788,Iron Maiden
+1788,Judas Priest
+1788,Madvillain
+1788,Black Sabbath
+1788,Madonna
+1788,Megadeth
+1789,Madonna
+1789,Michael Jackson
+1790,Iron Maiden
+1790,Queen
+1790,Madvillain
+1790,Queen
+1791,Kanye West
+1791,Megadeth
+1791,George Michael
+1791,Iron Maiden
+1792,George Michael
+1792,Metallica
+1792,"Tyler, the Creator"
+1793,Jay-Z
+1793,Iron Maiden
+1794,Bjork
+1794,Iron Maiden
+1794,Janet Jackson
+1794,George Michael
+1794,George Michael
+1795,Bjork
+1795,Madonna
+1796,Michael Jackson
+1796,Black Sabbath
+1796,George Michael
+1796,My Bloody Valentine
+1796,Prince
+1797,Queen
+1798,Madonna
+1798,Iron Maiden
+1798,Scorpions
+1798,Michael Jackson
+1798,Radiohead
+1798,Michael Jackson
+1799,My Bloody Valentine
+1799,Michael Jackson
+1799,Kendrick Lamar
+1799,Michael Jackson
+1799,Radiohead
+1800,George Michael
+1800,Godspeed You Black Emperor!
+1801,Janet Jackson
+1801,Michael Jackson
+1801,George Michael
+1802,Metallica
+1802,Iron Maiden
+1802,Madonna
+1803,Metallica
+1803,Megadeth
+1803,Iron Maiden
+1803,Kanye West
+1804,Bjork
+1804,Madonna
+1804,Radiohead
+1805,Radiohead
+1805,My Bloody Valentine
+1805,Judas Priest
+1805,Madvillain
+1805,Judas Priest
+1805,Bjork
+1806,Megadeth
+1806,Queen
+1806,Michael Jackson
+1807,Queen
+1807,Michael Jackson
+1807,Madonna
+1807,George Michael
+1807,Megadeth
+1807,Kendrick Lamar
+1807,Deep Purple
+1808,"Tyler, the Creator"
+1808,Kanye West
+1809,Queen
+1809,Black Sabbath
+1809,Bjork
+1810,George Michael
+1810,Madonna
+1810,Madvillain
+1810,Kendrick Lamar
+1810,Madonna
+1811,Scorpions
+1811,Queen
+1811,Queen
+1811,Queen
+1812,Michael Jackson
+1812,Megadeth
+1812,Led Zeppelin
+1812,George Michael
+1812,Metallica
+1813,Megadeth
+1813,Led Zeppelin
+1813,Madonna
+1814,Bjork
+1815,Metallica
+1815,"Tyler, the Creator"
+1815,Queen
+1815,Madvillain
+1816,Motorhead
+1816,Madvillain
+1816,Kanye West
+1816,Kendrick Lamar
+1816,Judas Priest
+1816,Queen
+1817,Bjork
+1817,Madonna
+1817,Deep Purple
+1817,My Bloody Valentine
+1818,Metallica
+1819,Prince
+1819,Michael Jackson
+1819,Megadeth
+1819,Bjork
+1819,Michael Jackson
+1820,Motorhead
+1820,George Michael
+1821,Megadeth
+1821,Iron Maiden
+1821,Godspeed You Black Emperor!
+1821,Iron Maiden
+1821,Metallica
+1822,Deep Purple
+1822,Michael Jackson
+1822,George Michael
+1822,Michael Jackson
+1822,Kendrick Lamar
+1822,Madvillain
+1823,Kendrick Lamar
+1823,Metallica
+1824,Bjork
+1824,Radiohead
+1824,Judas Priest
+1825,Godspeed You Black Emperor!
+1826,Iron Maiden
+1826,Black Sabbath
+1826,Kanye West
+1826,Michael Jackson
+1827,Radiohead
+1827,Iron Maiden
+1828,George Michael
+1828,Madvillain
+1828,Madvillain
+1828,My Bloody Valentine
+1829,Madonna
+1829,George Michael
+1830,Judas Priest
+1830,Bjork
+1830,Metallica
+1830,Bjork
+1831,2pac
+1831,George Michael
+1832,Michael Jackson
+1833,Godspeed You Black Emperor!
+1833,Metallica
+1834,Metallica
+1834,Iron Maiden
+1834,Megadeth
+1834,Queen
+1834,Michael Jackson
+1834,Iron Maiden
+1835,Michael Jackson
+1835,George Michael
+1836,"Tyler, the Creator"
+1837,Metallica
+1837,Judas Priest
+1838,Black Sabbath
+1838,Queen
+1839,Led Zeppelin
+1839,Radiohead
+1840,2pac
+1841,Kanye West
+1841,Iron Maiden
+1842,2pac
+1842,Megadeth
+1843,Radiohead
+1844,My Bloody Valentine
+1844,Madvillain
+1844,Radiohead
+1844,Iron Maiden
+1845,Black Sabbath
+1845,Led Zeppelin
+1845,Bjork
+1845,Megadeth
+1846,My Bloody Valentine
+1846,Motorhead
+1846,Metallica
+1846,Motorhead
+1847,Iron Maiden
+1848,Queen
+1848,Kendrick Lamar
+1849,Iron Maiden
+1849,Queen
+1849,Judas Priest
+1849,"Tyler, the Creator"
+1850,Metallica
+1850,Led Zeppelin
+1850,Bjork
+1850,Motorhead
+1851,Metallica
+1851,Iron Maiden
+1851,"Tyler, the Creator"
+1851,My Bloody Valentine
+1852,Radiohead
+1852,Bjork
+1852,Megadeth
+1853,Judas Priest
+1853,Madvillain
+1854,"Tyler, the Creator"
+1854,Kendrick Lamar
+1855,Madonna
+1855,Iron Maiden
+1855,Queen
+1856,Queen
+1856,George Michael
+1856,"Tyler, the Creator"
+1857,Queen
+1858,Queen
+1858,Kanye West
+1858,Led Zeppelin
+1859,Scorpions
+1859,Madonna
+1859,Queen
+1860,Radiohead
+1861,Megadeth
+1861,Metallica
+1862,Judas Priest
+1862,Janet Jackson
+1863,Kendrick Lamar
+1863,"Tyler, the Creator"
+1863,2pac
+1863,Madvillain
+1864,Radiohead
+1864,Kendrick Lamar
+1864,2pac
+1864,Iron Maiden
+1865,Judas Priest
+1865,Queen
+1865,Godspeed You Black Emperor!
+1866,Radiohead
+1866,My Bloody Valentine
+1866,Bjork
+1866,"Tyler, the Creator"
+1867,Radiohead
+1867,Madvillain
+1868,Led Zeppelin
+1868,Motorhead
+1868,Black Sabbath
+1868,Kendrick Lamar
+1869,Janet Jackson
+1869,George Michael
+1870,Radiohead
+1870,Deep Purple
+1871,Kendrick Lamar
+1871,Janet Jackson
+1872,Judas Priest
+1873,Judas Priest
+1873,"Tyler, the Creator"
+1873,Janet Jackson
+1873,Bjork
+1873,My Bloody Valentine
+1874,My Bloody Valentine
+1874,Radiohead
+1875,My Bloody Valentine
+1876,Madonna
+1876,Queen
+1876,Janet Jackson
+1876,Radiohead
+1876,"Tyler, the Creator"
+1876,Iron Maiden
+1877,Queen
+1877,Black Sabbath
+1878,Metallica
+1878,Michael Jackson
+1878,Iron Maiden
+1879,Metallica
+1879,"Tyler, the Creator"
+1880,Metallica
+1881,Black Sabbath
+1881,Kanye West
+1882,Metallica
+1883,Kendrick Lamar
+1883,Iron Maiden
+1883,Kanye West
+1884,Metallica
+1885,Michael Jackson
+1886,Megadeth
+1886,Judas Priest
+1887,Queen
+1887,Godspeed You Black Emperor!
+1888,Radiohead
+1889,Metallica
+1889,Megadeth
+1890,George Michael
+1890,Iron Maiden
+1891,Megadeth
+1891,Iron Maiden
+1892,"Tyler, the Creator"
+1893,Led Zeppelin
+1893,Madonna
+1894,Black Sabbath
+1895,Iron Maiden
+1895,Metallica
+1896,Kanye West
+1897,My Bloody Valentine
+1897,"Tyler, the Creator"
+1898,Madvillain
+1899,Led Zeppelin
+1899,"Tyler, the Creator"
+1900,Metallica
+1900,Iron Maiden
+1901,Scorpions
+1901,Queen
+1902,Bjork
+1903,Megadeth
+1903,Michael Jackson
+1904,Scorpions
+1904,Led Zeppelin
+1905,Megadeth
+1905,Radiohead
+1905,Metallica
+1905,Iron Maiden
+1906,"Tyler, the Creator"
+1906,Kendrick Lamar
+1906,2pac
+1906,George Michael
+1906,My Bloody Valentine
+1907,Radiohead
+1907,Judas Priest
+1907,Black Sabbath
+1907,Metallica
+1908,My Bloody Valentine
+1908,Black Sabbath
+1909,Scorpions
+1909,Queen
+1909,Led Zeppelin
+1909,Judas Priest
+1910,Bjork
+1910,Madonna
+1910,Radiohead
+1910,Metallica
+1910,Queen
+1910,Queen
+1911,Janet Jackson
+1911,George Michael
+1911,Madonna
+1912,Kendrick Lamar
+1913,Queen
+1913,Madvillain
+1914,Radiohead
+1914,Bjork
+1914,Kendrick Lamar
+1915,Deep Purple
+1915,Led Zeppelin
+1915,Queen
+1915,Black Sabbath
+1915,Led Zeppelin
+1916,Michael Jackson
+1916,Janet Jackson
+1916,Black Sabbath
+1916,Megadeth
+1916,Godspeed You Black Emperor!
+1917,Iron Maiden
+1917,Prince
+1917,"Tyler, the Creator"
+1917,Black Sabbath
+1917,Michael Jackson
+1918,"Tyler, the Creator"
+1918,Bjork
+1919,Kendrick Lamar
+1920,Queen
+1920,Led Zeppelin
+1921,My Bloody Valentine
+1921,Bjork
+1921,Radiohead
+1921,Metallica
+1921,Kendrick Lamar
+1921,Metallica
+1921,Radiohead
+1922,Prince
+1923,Radiohead
+1923,Iron Maiden
+1923,Michael Jackson
+1924,Michael Jackson
+1925,Kanye West
+1925,"Tyler, the Creator"
+1925,Kendrick Lamar
+1925,Led Zeppelin
+1925,2pac
+1925,Janet Jackson
+1926,Kendrick Lamar
+1926,Led Zeppelin
+1926,Michael Jackson
+1927,"Tyler, the Creator"
+1928,Radiohead
+1928,Black Sabbath
+1928,Black Sabbath
+1929,2pac
+1930,Deep Purple
+1930,Queen
+1930,Kanye West
+1931,Scorpions
+1931,Black Sabbath
+1931,George Michael
+1931,Madonna
+1931,Metallica
+1931,Deep Purple
+1932,Radiohead
+1933,Metallica
+1933,Iron Maiden
+1933,Motorhead
+1933,Radiohead
+1934,Megadeth
+1934,Metallica
+1934,Metallica
+1935,Madonna
+1935,Kendrick Lamar
+1935,Megadeth
+1935,Metallica
+1935,Michael Jackson
+1936,Janet Jackson
+1937,Radiohead
+1937,Deep Purple
+1938,Metallica
+1939,Jay-Z
+1940,George Michael
+1940,Janet Jackson
+1940,Madonna
+1941,Janet Jackson
+1941,Michael Jackson
+1942,Iron Maiden
+1943,Radiohead
+1943,My Bloody Valentine
+1943,2pac
+1944,Queen
+1944,Metallica
+1944,Iron Maiden
+1944,Madonna
+1945,Kanye West
+1945,Led Zeppelin
+1945,Kendrick Lamar
+1945,"Tyler, the Creator"
+1946,Michael Jackson
+1946,George Michael
+1946,Madvillain
+1946,Queen
+1947,Radiohead
+1947,Megadeth
+1947,Led Zeppelin
+1948,"Tyler, the Creator"
+1948,George Michael
+1948,Radiohead
+1948,Michael Jackson
+1949,Metallica
+1950,Radiohead
+1951,"Tyler, the Creator"
+1951,Kendrick Lamar
+1951,Michael Jackson
+1951,Radiohead
+1951,Megadeth
+1951,Kendrick Lamar
+1951,Kanye West
+1952,"Tyler, the Creator"
+1953,George Michael
+1953,Michael Jackson
+1954,Michael Jackson
+1954,Queen
+1955,Madonna
+1955,George Michael
+1955,Michael Jackson
+1956,Iron Maiden
+1956,My Bloody Valentine
+1956,Prince
+1956,Michael Jackson
+1956,Megadeth
+1957,My Bloody Valentine
+1958,Kendrick Lamar
+1958,"Tyler, the Creator"
+1958,Led Zeppelin
+1958,Megadeth
+1959,Kanye West
+1959,"Tyler, the Creator"
+1959,Jay-Z
+1959,Motorhead
+1959,Kendrick Lamar
+1960,Radiohead
+1960,Madvillain
+1960,Bjork
+1960,Megadeth
+1961,Bjork
+1961,Megadeth
+1961,Michael Jackson
+1962,Janet Jackson
+1963,Led Zeppelin
+1963,Janet Jackson
+1964,Scorpions
+1965,Janet Jackson
+1966,George Michael
+1967,Kendrick Lamar
+1967,2pac
+1967,2pac
+1967,Jay-Z
+1967,Led Zeppelin
+1968,Iron Maiden
+1969,Prince
+1969,Megadeth
+1970,Bjork
+1970,George Michael
+1970,Metallica
+1970,My Bloody Valentine
+1970,Led Zeppelin
+1971,"Tyler, the Creator"
+1971,Bjork
+1972,Queen
+1972,Iron Maiden
+1972,Led Zeppelin
+1972,Judas Priest
+1973,Motorhead
+1973,Radiohead
+1974,Madonna
+1974,Iron Maiden
+1975,Motorhead
+1975,Scorpions
+1975,Kendrick Lamar
+1975,Megadeth
+1975,Bjork
+1976,Deep Purple
+1976,Iron Maiden
+1976,Janet Jackson
+1977,Radiohead
+1978,"Tyler, the Creator"
+1978,Kendrick Lamar
+1979,Deep Purple
+1979,Queen
+1979,My Bloody Valentine
+1980,Motorhead
+1980,Michael Jackson
+1980,Radiohead
+1980,Black Sabbath
+1980,Judas Priest
+1981,Bjork
+1981,Metallica
+1981,Godspeed You Black Emperor!
+1981,Madvillain
+1981,Jay-Z
+1981,Madonna
+1982,Metallica
+1982,Prince
+1982,Iron Maiden
+1983,"Tyler, the Creator"
+1983,Radiohead
+1983,Janet Jackson
+1984,Led Zeppelin
+1985,Queen
+1985,Deep Purple
+1985,"Tyler, the Creator"
+1985,Deep Purple
+1986,Michael Jackson
+1986,Deep Purple
+1987,Madvillain
+1987,Judas Priest
+1987,Radiohead
+1988,Bjork
+1988,Kendrick Lamar
+1988,Queen
+1989,My Bloody Valentine
+1989,Radiohead
+1990,Bjork
+1990,Radiohead
+1990,Queen
+1990,My Bloody Valentine
+1991,Queen
+1991,Radiohead
+1992,Michael Jackson
+1992,Judas Priest
+1992,Led Zeppelin
+1992,Godspeed You Black Emperor!
+1993,Madonna
+1993,George Michael
+1993,Radiohead
+1994,Black Sabbath
+1994,Queen
+1994,Queen
+1995,Kendrick Lamar
+1995,Michael Jackson
+1995,Kanye West
+1996,"Tyler, the Creator"
+1996,Bjork
+1997,Kendrick Lamar
+1997,Madvillain
+1997,Iron Maiden
+1997,Megadeth
+1997,Motorhead
+1998,Bjork
+1998,Michael Jackson
+1999,Madvillain
+1999,Iron Maiden
+2000,Radiohead

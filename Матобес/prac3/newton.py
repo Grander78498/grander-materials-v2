@@ -93,9 +93,9 @@ def gradient(x: np.ndarray[np.float32]) -> np.ndarray[np.float32]:
 
 
 def main():
-    x = np.array([5., 5.])
+    x = np.array([1., 1.])
     it = 0
-    epsilon = 0.000001
+    epsilon = 0.0001
 
     while np.linalg.norm(gradient(x)) > epsilon:
         print(f'Итерация {it}')

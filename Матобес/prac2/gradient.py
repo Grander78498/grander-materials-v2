@@ -1,22 +1,32 @@
 import numpy as np
 
 
+delta_x = 0.0000001
+
+
 def f(arr: np.ndarray[np.float32]) -> float | np.ndarray[np.float32]:
     x = arr.T
     return 2 * x[0] ** 2 - 2 * x[0] * x[1] + 3 * x[1] ** 2 + x[0] - 3 * x[1]
 
 
+def first_partial(x: np.ndarray[np.float32], i: int):
+    u = x.copy()
+    u[i] += delta_x
+    u = f(u)
+
+    return (u - f(x)) / delta_x
+
+
 def gradient(x: np.ndarray[np.float32]) -> np.ndarray[np.float32]:
-    result = np.array([4 * x[0] - 2 * x[1] + 1,
-                       -2 * x[0] + 6 * x[1] - 3])
+    result = np.array([first_partial(x, 0), first_partial(x, 1)])
     return result
 
 
 def main():
-    x = np.array([5., 5.])
+    x = np.array([1., 1.])
     it = 0
     h = 0.2
-    epsilon = 0.000001
+    epsilon = 0.0001
 
     while np.linalg.norm(gradient(x)) > epsilon:
         while True:

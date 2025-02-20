@@ -8,13 +8,13 @@ def f(arr: np.ndarray[np.float32]) -> float | np.ndarray[np.float32]:
 
 
 def main():
-    basis: np.ndarray[np.float32] = np.array([5., 5.])
+    basis: np.ndarray[np.float32] = np.array([1., 1.])
     n = 2
-    d = 100
+    d = 10
     h = 0.2
-    m = 1.5
+    m = 2
     it = 0
-    epsilon = 0.000001
+    epsilon = 0.0001
 
     while True:
         new_x = basis.copy()
