@@ -22,7 +22,6 @@ def main():
             print(f'Итерация {it}')
             it += 1
             for i in range(n):
-                basis = new_x.copy()
                 new_x[i] += h
                 if f(new_x) < f(basis):
                     continue
@@ -41,7 +40,7 @@ def main():
             basis = new_x
         print(basis)
         print(f(basis))
-
+        
         if h <= epsilon:
             print((lambda x: np.round(x, 3))(basis))
             print(f(basis))
