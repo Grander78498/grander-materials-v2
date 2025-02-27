@@ -40,8 +40,8 @@
 }
 
 #let appendix() = {
-  outline(target: heading.where(level: 4), title: heading("Приложения", level: 1, outlined: true))
-  counter(heading.where(level: 4)).update(0)
+  outline(target: heading.where(level: 6), title: heading("Приложения", level: 1, outlined: true))
+  counter(heading.where(level: 6)).update(0)
 }
 
 
@@ -72,18 +72,21 @@
     show figure.caption: set text(size: 12pt)
     par([#it.caption #rect(width: 100%, stroke: luma(50%), [#it.body])])
   }
-  show heading: set block(sticky: true)
   show heading: it => {
+    let res
     if it.numbering != none {
       context {
         let arr = counter(heading).get()
+        let res
         if it.numbering == none {
           set par(justify: true)
-          align(center, it.body)
+          res = align(center, it.body)
         } else {
           set par(first-line-indent: (amount: 1.25cm, all: true), justify: true)
-          [#arr.map(str).join(".") #it.body]
+          res = [#arr.map(str).join(".") #it.body]
         }
+
+        block(par[#res], sticky: true)
       }
     }
     else {
@@ -101,25 +104,25 @@
     upper(text(it, size: 18pt))
   }
   show heading.where(level: 2): it => {
-    v(24pt)
+    v(24pt, weak: true)
     counter(math.equation).update(0)
     counter(figure.where(kind: image)).update(0)
     text(it, size: 16pt)
   }
   show heading.where(level: 3): it => {
-    v(24pt)
+    v(24pt, weak: true)
     it
   }
-  show heading.where(level: 4): it => {
+  show heading.where(level: 6): it => {
     pagebreak()
-    counter(heading.where(level: 4)).step()
+    counter(heading.where(level: 6)).step()
     counter("code").update(0)
-    align(center, "Приложение " + appendix-num(counter(heading.where(level: 4)).get().first() + 1))
+    align(center, "Приложение " + appendix-num(counter(heading.where(level: 6)).get().first() + 1))
     v(12pt)
     align(center, text(it.body, weight: "regular"))
   }
 
-  show heading.where(numbering: none): set heading(supplement: [Не раздел])
+  show heading: set heading(supplement: none)
   show heading.where(numbering: none): it => {
     align(center, it)
   }
@@ -139,12 +142,10 @@
     }
   }
 
-  set enum(indent: 1.25cm, body-indent: 1cm)
-  show enum: it => {
-    it
-  }
+  set enum(indent: 1.25cm, body-indent: 1cm, full: true)
   
   show outline.entry: it => {
+    set par(justify: true)
     if it.level == 1 {
       upper(it)
     }
@@ -153,10 +154,9 @@
     }
     else {
       context {
-        set par(justify: true)
-        let app-num = counter(heading.where(level: 4)).get().first()
-        counter(heading.where(level: 4)).step()
-        par(link(query(heading.where(level: 4)).at(app-num).location())[Приложение #appendix-num(app-num + 1) --- #it.element.body.])
+        let app-num = counter(heading.where(level: 6)).get().first()
+        counter(heading.where(level: 6)).step()
+        par(link(query(heading.where(level: 6)).at(app-num).location())[Приложение #appendix-num(app-num + 1) --- #it.element.body.])
       }
     }
   }
@@ -206,7 +206,7 @@
       link(it.target)[#it]
     } else if it.element != none and it.element.supplement == [Листинг] {
       context {
-        link(it.target)[#appendix-num(counter(heading.where(level: 4)).at(it.target).first()).#counter("code").at(it.target).first()]
+        link(it.target)[#appendix-num(counter(heading.where(level: 6)).at(it.target).first()).#counter("code").at(it.target).first()]
       }
     } else if it.element != none and it.element.body.func() == image {
       context {
@@ -311,7 +311,7 @@
   table-counter.step()
 
   let arr = counter(heading).get()
-  let table-part-counter = counter("table-part" + str(arr.slice(0, 2).map(str).join(".")) + str(table-counter.get().first()))
+  let table-part-counter = counter("table-part" + str(arr.slice(0, 1).map(str).join(".")) + str(table-counter.get().first()))
   show <table-header>: _ => {
     table-part-counter.step()
     set text(font: "Times New Roman", size: 12pt)
@@ -357,11 +357,11 @@
   set par(first-line-indent: 0cm)
   context [
     #let arr = counter(heading).get()
-    #let num = arr.slice(0, 2).map(str).join(".") + "." + str(counter("table").get().first() + 1)
+    #let num = arr.slice(0, 1).map(str).join(".") + "." + str(counter("table").get().first() + 1)
   #next-page-table(
     next-page-content: (par([Таблица #num --- #name], leading: 4pt), [Продолжение Таблицы #num]),
     label,
-    table(align: center, columns: if columns == none {header.len()} else {columns}, table.header(..header.map(text.with(weight: "bold")), repeat: false), ..table-content, stroke: luma(100))
+    table(align: left, columns: if columns == none {header.len()} else {columns}, table.header(..header.map(text.with(weight: "bold")).map(align.with(center)), repeat: false), ..table-content, stroke: luma(100))
   )
   ]
 }
