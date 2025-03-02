@@ -354,7 +354,9 @@
 
 #let simple-table(columns: none, name: "", label: none, header: none, ..table-content) = {
   v(-6pt)
-  set par(first-line-indent: 0cm)
+  set par(first-line-indent: 0cm, justify: false)
+  set text(hyphenate: true)
+  set enum(body-indent: 6pt, indent: 0pt)
   context [
     #let arr = counter(heading).get()
     #let num = arr.slice(0, 1).map(str).join(".") + "." + str(counter("table").get().first() + 1)
