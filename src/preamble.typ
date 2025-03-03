@@ -73,20 +73,13 @@
     par([#it.caption #rect(width: 100%, stroke: luma(50%), [#it.body])])
   }
   show heading: it => {
-    let res
     if it.numbering != none {
+      set par(first-line-indent: (amount: 1.25cm, all: true), justify: true)
       context {
         let arr = counter(heading).get()
-        let res
-        if it.numbering == none {
-          set par(justify: true)
-          res = align(center, it.body)
-        } else {
-          set par(first-line-indent: (amount: 1.25cm, all: true), justify: true)
-          res = [#arr.map(str).join(".") #it.body]
-        }
+        let res = [#arr.map(str).join(".") #it.body]
 
-        block(par[#res], sticky: true)
+        block(par(res), sticky: true, width: 100%)
       }
     }
     else {
@@ -105,8 +98,8 @@
   }
   show heading.where(level: 2): it => {
     v(24pt, weak: true)
-    counter(math.equation).update(0)
-    counter(figure.where(kind: image)).update(0)
+    //counter(math.equation).update(0)
+    //counter(figure.where(kind: image)).update(0)
     text(it, size: 16pt)
   }
   show heading.where(level: 3): it => {
@@ -173,10 +166,10 @@
   set math.equation(numbering: num => {
     let arr = counter(heading).get()
     if arr.len() >= 2 {
-      numbering("(1.1.1)", ..arr.slice(0, 2), num)
+      numbering("(1.1)", ..arr.slice(0, 1), num)
     }
     else {
-      numbering("(1.1.1)", ..arr, num)
+      numbering("(1.1)", ..arr, num)
     }
   }, supplement: none)
   set figure(
@@ -189,7 +182,7 @@
     set par(leading: 4pt, justify: false)
     v(-12pt)
     [
-      Рисунок #arr.slice(0, 2).map(str).join(".").#counter(figure.where(kind: image)).get().first() --- #it.caption.body
+      Рисунок #arr.slice(0, 1).map(str).join(".").#counter(figure.where(kind: image)).get().first() --- #it.caption.body
     ]
     v(-6pt)
   }
@@ -211,12 +204,12 @@
     } else if it.element != none and it.element.body.func() == image {
       context {
         let arr = counter(heading).at(it.target)
-        link(it.target)[#arr.slice(0, 2).map(str).join(".").#counter(figure.where(kind: image)).at(it.target).first()]
+        link(it.target)[#arr.slice(0, 1).map(str).join(".").#counter(figure.where(kind: image)).at(it.target).first()]
       }
     } else if it.element != none and it.element.body.func() == table {
       context {
         let arr = counter(heading).at(it.target)
-        link(it.target)[#arr.slice(0, 2).map(str).join(".").#counter(figure.where(kind: table)).at(it.target).first()]
+        link(it.target)[#arr.slice(0, 1).map(str).join(".").#counter(figure.where(kind: table)).at(it.target).first()]
       }
     } else {
       it
@@ -256,7 +249,7 @@
 
   // Counter for the amount of pages in the table
   // It is increased by one for each footer repetition
-  let table-part-counter = counter("table-part" + str(counter(heading).get().at(3)) + str(table-counter.get().first()))
+  let table-part-counter = counter("table-part" + str(counter(heading).get().at(5)) + str(table-counter.get().first()))
   show <table-header>: _ => {
     table-part-counter.step()
     set text(font: "Times New Roman", size: 12pt)
@@ -343,7 +336,7 @@
 #let simple-code(code-content, name, label: none) = {
   set par(first-line-indent: 0cm)
   context [
-    #let num = appendix-num(counter(heading).get().at(3)) + "." + str(counter("code").get().first() + 1)
+    #let num = appendix-num(counter(heading).get().at(5)) + "." + str(counter("code").get().first() + 1)
   #next-page-code(
     next-page-content: (par([#h(-4pt) Листинг #num --- #name], leading: 4pt), [Продолжение Листинга #num], [Окончание Листинга #num]),
     label,
@@ -354,7 +347,7 @@
 
 #let simple-table(columns: none, name: "", label: none, header: none, ..table-content) = {
   v(-6pt)
-  set par(first-line-indent: 0cm, justify: false)
+  set par(first-line-indent: 0cm, justify: true, leading: 6pt, spacing: 6pt)
   set text(hyphenate: true)
   set enum(body-indent: 6pt, indent: 0pt)
   context [
