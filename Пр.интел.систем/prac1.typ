@@ -38,6 +38,8 @@
 #appendix()
 
 #set heading(offset: 5)
+= Генерация данных
+#simple-code(raw(read("prac1/generate.py")), [Генерация данных], label: <generate>)
 = Реализация алгоритма Apriori
 = Реализация алгоритма Eclat
 = Реализация алгоритма FP-Growth
