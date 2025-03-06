@@ -91,6 +91,7 @@
   show heading.where(level: 1): it => {
     counter(math.equation).update(0)
     counter(figure.where(kind: image)).update(0)
+    counter("table").update(0)
     if it.body != [Приложения] {
       pagebreak()
     }
@@ -209,7 +210,7 @@
     } else if it.element != none and it.element.body.func() == table {
       context {
         let arr = counter(heading).at(it.target)
-        link(it.target)[#arr.slice(0, 1).map(str).join(".").#counter(figure.where(kind: table)).at(it.target).first()]
+        link(it.target)[#arr.slice(0, 1).map(str).join(".").#counter("table").at(it.target).first()]
       }
     } else {
       it
