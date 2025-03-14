@@ -1,0 +1,1 @@
+print('Eclat сила, Apriori могила')
