@@ -45,7 +45,7 @@
 }
 
 
-#let template(doc) = {
+#let template(doc, heading-offset: 0) = {
   set par(first-line-indent: (
     amount: 1.25cm,
     all: true
@@ -77,7 +77,7 @@
       set par(first-line-indent: (amount: 1.25cm, all: true), justify: true)
       context {
         let arr = counter(heading).get()
-        let res = [#arr.map(str).join(".") #it.body]
+        let res = [#arr.map(it => {str(it + heading-offset)}).join(".") #it.body]
 
         block(par(res), sticky: true, width: 100%)
       }
