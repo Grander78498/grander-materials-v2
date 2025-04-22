@@ -125,7 +125,7 @@
   show list: it => {
     set par(first-line-indent: (amount: 1.25cm, all: true), hanging-indent: 2.25cm)
     for (index, item) in it.children.enumerate() {
-      let res = it.marker.at(0) + h(1cm - 4pt) + item.body;
+      let res = it.marker.at(2) + h(1cm - 4pt) + item.body;
       if index == it.children.len() - 1 {
         res += ".";
       }
@@ -219,9 +219,7 @@
   show math.equation.where(block: true): it => {
     set block(breakable: true)
     set text(font: "Cambria Math")
-    linebreak()
     it
-    linebreak()
   }
   
   show bibliography: set block(width: 100%)
