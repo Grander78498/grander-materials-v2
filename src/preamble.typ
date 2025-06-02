@@ -123,9 +123,9 @@
 
   set list(indent: 1.25cm, body-indent: 1cm)
   show list: it => {
-    set par(first-line-indent: (amount: 1.25cm, all: true), hanging-indent: 2.25cm)
+    set par(first-line-indent: (amount: 1.25cm + 6pt, all: true), hanging-indent: 2.25cm + 11pt)
     for (index, item) in it.children.enumerate() {
-      let res = it.marker.at(2) + h(1cm - 4pt) + item.body;
+      let res = it.marker.at(2) + h(1cm) + item.body;
       if index == it.children.len() - 1 {
         res += ".";
       }
