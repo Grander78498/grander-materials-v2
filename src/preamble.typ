@@ -123,9 +123,9 @@
 
   set list(indent: 1.25cm, body-indent: 1cm)
   show list: it => {
-    set par(first-line-indent: (amount: 1.25cm, all: true), hanging-indent: 2.25cm)
+    set par(first-line-indent: (amount: 1.25cm, all: true), hanging-indent: 2.5cm)
     for (index, item) in it.children.enumerate() {
-      let res = it.marker.at(2) + h(1cm - 4pt) + item.body;
+      let res = it.marker.at(2) + h(1cm) + item.body;
       if index == it.children.len() - 1 {
         res += ".";
       }
@@ -349,13 +349,44 @@
   set par(first-line-indent: 0cm, justify: true, leading: 6pt, spacing: 6pt)
   set text(hyphenate: true)
   set enum(body-indent: 6pt, indent: 0pt)
+  set list(body-indent: 6pt, indent: 0pt)
+  show list: it => {
+    for ch in it.children {
+      it.marker.at(2) + h(6pt) + ch.body + "\n"
+    }
+  }
   context [
     #let arr = counter(heading).get()
     #let num = arr.slice(0, 1).map(str).join(".") + "." + str(counter("table").get().first() + 1)
-  #next-page-table(
-    next-page-content: (par([Таблица #num --- #name], leading: 4pt), [Продолжение Таблицы #num]),
-    label,
-    table(align: left, columns: if columns == none {header.len()} else {columns}, table.header(..header.map(text.with(weight: "bold")).map(align.with(center)), repeat: false), ..table-content, stroke: luma(100))
-  )
+    #if header != none {
+      next-page-table(
+        next-page-content: (par([Таблица #num --- #name], leading: 4pt), [Продолжение Таблицы #num]),
+        label,
+        table(align: left, 
+              columns: if header != none {header.len()} else {columns},
+              
+              table.header(
+                ..header
+                .map(text.with(weight: "bold"))
+                .map(align.with(center)),
+                repeat: false
+              ),
+              
+              ..table-content,
+              stroke: luma(100)
+            )
+      )
+    } else {
+      next-page-table(
+        next-page-content: (par([Таблица #num --- #name], leading: 4pt), [Продолжение Таблицы #num]),
+        label,
+        table(align: left, 
+              columns: if header != none {header.len()} else {columns},     
+              ..table-content,
+              stroke: luma(100)
+            )
+      )
+
+    }
   ]
 }

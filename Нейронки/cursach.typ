@@ -1,5 +1,8 @@
 #import "/src/preamble.typ": *
-#import "/src/titul-holm.typ": *
+#set page(margin: (left: 0pt, right: 0pt, top: 0pt, bottom: 0pt))
+#figure(image("/img/cursach/cursach_2025-06-01-12-09-56.png", height: 100%), caption: none)
+#figure(image("/img/cursach/cursach_2025-06-01-12-23-56.png", height: 100%), caption: none)
+#figure(image("/img/cursach/cursach_2025-06-01-12-24-44.png", height: 100%), caption: none)
 #show: main
 #show: template
 
