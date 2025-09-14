@@ -1,6 +1,4 @@
 import numpy as np
-import math
-
 
 def f(arr: np.ndarray[np.float32]) -> float | np.ndarray[np.float32]:
     x = arr.T
