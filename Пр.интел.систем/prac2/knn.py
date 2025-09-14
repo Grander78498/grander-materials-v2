@@ -87,21 +87,17 @@ class KNNClassifier:
         predictions = np.empty(X.shape[0], dtype=self.y_train.dtype)
         
         for i, x in enumerate(tqdm(X, desc="Predicting")):
-            # Вычисляем расстояния до всех точек обучающей выборки
             distances = np.array([self.metric(x, x_train) for x_train in self.X_train])
             
-            # Находим индексы k ближайших соседей
             k_nearest_indices = np.argpartition(distances, self.n_neighbors)[:self.n_neighbors]
             k_nearest_labels = self.y_train[k_nearest_indices]
             
             if self.weights == "uniform":
-                # Простое голосование по большинству
                 unique, counts = np.unique(k_nearest_labels, return_counts=True)
                 predictions[i] = unique[np.argmax(counts)]
             else:
-                # Взвешенное голосование (обратно пропорционально расстоянию)
                 k_nearest_distances = distances[k_nearest_indices]
-                weights = 1 / (k_nearest_distances + 1e-10)  # Добавляем небольшое значение для избежания деления на 0
+                weights = 1 / (k_nearest_distances + 1e-10)
                 weighted_votes = np.zeros(len(CLASSES))
                 
                 for label, weight in zip(k_nearest_labels, weights):

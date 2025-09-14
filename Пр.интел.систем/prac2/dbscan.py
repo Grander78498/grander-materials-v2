@@ -144,7 +144,7 @@ def main():
 
     encoder = LabelEncoder()
     track_labels = encoder.fit_transform(data.genre)
-    # visualize(data.drop(columns=['genre']), track_labels, "Исходные данные", CLASSES)
+    visualize(data.drop(columns=['genre']), track_labels, "Исходные данные", CLASSES)
     
     dbscan = DBSCAN(data.drop(columns=['genre']), epsilon=2.1, min_samples=8)
     dbscan.fit()
